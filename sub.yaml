@@ -1,0 +1,35 @@
+proxies:
+  - {name: 🇺🇸 _US_美国->🇨🇳_CN_中国_1, server: product.wireshop.net, port: 443, type: trojan, password: /gyDw5KSa9D4ReNSYxnI8Z6zO8llAA53CFRKpCjpx6YjRDlwF3aeX3Oa2DCA37BeTzygaI, skip-cert-verify: true}
+  - {name: 🇺🇸 _US_美国->🇨🇳_CN_中国_2, server: 137.184.120.86, port: 443, type: trojan, password: /6d0a7f2f-c26c-466a-8f90-d6630ba97928, skip-cert-verify: true}
+  - {name: 🇰🇷 _US_美国->🇰🇷_KR_韩国, server: closet.homeofbrave.net, port: 28332, type: trojan, password: /9FC33glcaEeYYTnOqOS9DOZgBZ5CDazy33SCS2j4Cz36A7AIN88uaKRx5xDyR8pxu3x4D, skip-cert-verify: true}
+  - {name: 🇺🇸 _US_美国, server: soldier.homeofbrave.net, port: 443, type: trojan, password: /CAlpl3ZOpDFaS9E6Se0plFxu2x3I4eACOcqZSaY3ReS6CjZSCTNKDgEF73TDZ2aB9D3nD, skip-cert-verify: true}
+  - {name: 🇺🇸 _US_美国_1, server: 154.17.23.111, port: 443, type: trojan, password: /lp20A3ueODTNy3eS3w8SnAXFB4DzxaOSxcRCpAZ8357aZDF9y6FCzSax3YNOXCCaappxY, skip-cert-verify: true}
+  - {name: 🇺🇸 _US_美国_2, server: dessert.taiwanesefood.link, port: 443, type: trojan, password: /SZAaY0CIRDey6OCSpS3Dl3F2nnDTYFqRS8aClceOwAyTwy39XxDz4FYXZO3AxRaEz2SlN, skip-cert-verify: true}
+  - {name: 🇬🇧 _GB_英国->🇨🇳_CN_中国, server: coliseum.coffeekit.net, port: 443, type: trojan, password: /RDY3RCBe82XylFcyOaa8CKl8Aga0YSSy9ZBFSZYuq3nDjI0OaEwZDn3Ap6pSTaxOxORDe, skip-cert-verify: true}
+  - {name: 🇰🇷 _US_美国->🇰🇷_KR_韩国_1, server: 154.17.21.41, port: 443, type: trojan, password: /8cwxYqlSeC4Xw8KOApT3SxCIX69eZ7zBNZDE0Dap3y9AZTFBFlD5a2euA7A3YzR2DpSyI, skip-cert-verify: true}
+  - {name: 🇺🇸 _US_美国_5, server: 154.17.20.103, port: 443, type: trojan, password: /lBSSFOalI3yXZDOAwADg9a8zTCexE6pjxeX4D3a0FgSSYRqlCyCOYcz83w3aYR3cTZDF8, skip-cert-verify: true}
+  - {name: 🇸🇬 _US_美国->🇸🇬_SG_新加坡, server: aluminum.wireshop.net, port: 28334, type: trojan, password: /ZI3OeTA9Clx3AFS78DejwENjaZAa3FSwSluxY3EOClyycDqyzpYD0a6DI2eS28q7X3NpC, skip-cert-verify: true}
+  - {name: 🇸🇬 _US_美国->🇸🇬_SG_新加坡_1, server: dilmun.starspace.link, port: 443, type: trojan, password: /ZS9yA0YxpC6X3aDj88YAy5l3KS4FwCcy3DCDR3F322DOS3BRO7N3nFOxEKxSY6Ky3aXCNSxAEAaNnl4, skip-cert-verify: true}
+  - {name: 🇺🇸 _US_美国->🇲🇩_MD_摩尔多瓦, server: 192.3.130.103, port: 443, type: trojan, password: /576c81b6-4976-4fe3-b1a9-05a9c302e98e, skip-cert-verify: true, network: grpc}
+  - {name: 🇬🇧 _GB_英国, server: 5.39.252.72, port: 20016, type: vmess, uuid: 5240bc9d-5706-48a5-8754-0147b887ec12, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 🇺🇸 _US_美国_10, server: lnitak.starspace.link, port: 443, type: trojan, password: /jnaO0CFYpYExOygqlESRplzewIaKSFpBaqXy3YX4xBC8KK9ja94Y4S8aS7zjq96XSxO7CDu5BCYFCZg, skip-cert-verify: true}
+  - {name: 🇭🇰 香港2 | ⬇️ 30.2MB/s, server: gy.58n.net, port: 20278, type: trojan, password: /33c0cbde-9dcb-347c-85fe-a19cad07055e, skip-cert-verify: true}
+  - {name: 🇭🇰 香港47 | ⬇️ 38.3MB/s, server: gy.58n.net, port: 20279, type: trojan, password: /33c0cbde-9dcb-347c-85fe-a19cad07055e, skip-cert-verify: true}
+  - {name: 🇭🇰 香港14 | ⬇️ 26.9MB/s, server: naiu-hk.05vr9nyqg5.download, port: 13008, type: trojan, password: /bba1cfff-9e0b-4cb6-9df4-c741c75e59a8, skip-cert-verify: true}
+  - {name: 🇸🇬 新加坡7 | ⬇️ 46.4MB/s, server: gy.58n.net, port: 30712, type: trojan, password: /33c0cbde-9dcb-347c-85fe-a19cad07055e, skip-cert-verify: true}
+  - {name: 🇸🇬 新加坡4 | ⬇️ 8.4MB/s, server: gy.58n.net, port: 20299, type: trojan, password: /33c0cbde-9dcb-347c-85fe-a19cad07055e, skip-cert-verify: true}
+  - {name: 🇯🇵 日本3 | ⬇️ 32.3MB/s, server: gy.58n.net, port: 54178, type: trojan, password: /33c0cbde-9dcb-347c-85fe-a19cad07055e, skip-cert-verify: true}
+  - {name: 🇯🇵 日本15 | ⬇️ 49.1MB/s, server: gy.58n.net, port: 20071, type: trojan, password: /33c0cbde-9dcb-347c-85fe-a19cad07055e, skip-cert-verify: true}
+  - {name: 🇩🇪 德国8 | ⬇️ 8.3MB/s, server: 49.13.0.130, port: 49808, type: vmess, uuid: ee7a20fa-cf57-4709-b48b-24bdb7d965cb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 🇯🇵 日本46 | ⬇️ 21.1MB/s, server: gy.58n.net, port: 20142, type: trojan, password: /33c0cbde-9dcb-347c-85fe-a19cad07055e, skip-cert-verify: true}
+  - {name: 🇯🇵 日本47 | ⬇️ 47.1MB/s, server: gy.58n.net, port: 20139, type: trojan, password: /33c0cbde-9dcb-347c-85fe-a19cad07055e, skip-cert-verify: true}
+  - {name: 🇯🇵 日本43 | ⬇️ 50.2MB/s, server: gy.58n.net, port: 20141, type: trojan, password: /33c0cbde-9dcb-347c-85fe-a19cad07055e, skip-cert-verify: true}
+  - {name: 🇫🇷 法国5 | ⬇️ 3.6MB/s, server: 120.232.153.40, port: 44550, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 🇬🇧 英国4 | ⬇️ 5.6MB/s, server: 183.236.51.38, port: 41699, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 🇫🇷 法国1 | ⬇️ 3.4MB/s, server: 120.232.153.40, port: 44550, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 🇬🇧 英国5 | ⬇️ 6.1MB/s, server: 183.236.51.38, port: 41699, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 🇸🇬 新加坡1 | ⬇️ 30.5MB/s, server: gy.58n.net, port: 20130, type: trojan, password: /33c0cbde-9dcb-347c-85fe-a19cad07055e, skip-cert-verify: true}
+  - {name: 🇨🇳 台湾6 | ⬇️ 16.6MB/s, server: 92.243.74.239, port: 8443, type: trojan, password: /Aimer, skip-cert-verify: true, network: ws, ws-opts: {path: ""}}
+  - {name: 🇺🇸 美国13 | ⬇️ 17.9MB/s, server: 104.17.148.22, port: 443, type: trojan, password: /Pooria, skip-cert-verify: true, network: ws, ws-opts: {path: ""}}
+  - {name: 🇺🇸 美国26 | ⬇️ 5.0MB/s, server: 89.187.181.172, port: 43118, type: trojan, password: /ypDt8RkT7J, skip-cert-verify: true}
+  - {name: 🇺🇸 美国36 | ⬇️ 1.1MB/s, server: 104.21.63.236, port: 443, type: trojan, password: /6d898085-bf6a-449b-9763-0073d4dc2ce0, skip-cert-verify: true, network: ws, ws-opts: {path: ""}}
