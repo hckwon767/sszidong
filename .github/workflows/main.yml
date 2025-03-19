@@ -45,6 +45,8 @@ jobs:
       - name: Run ss
         run: python ${{ github.workspace }}/ss.py
 
+      - name: Run sub
+        run: python ${{ github.workspace }}/sub.py
 
         
       - name: Commit results
@@ -53,6 +55,7 @@ jobs:
           git config --local user.name "GitHub Action"
           if [ -n "$(git status --porcelain)" ]; then
             git add *.txt
+            git add *.yaml
             git commit -m "Automatic update"
             git push
           else
