@@ -1,204 +1,204 @@
 proxies:
-  - {name: 🇬🇧 free5：3.11 GB, server: free.6vczxw.xyz, port: 41141, type: ss, cipher: chacha20-ietf-poly1305, password: 42c9b154-5ceb-422f-8d1f-136d3d110b5a}
-  - {name: 🇭🇰 香港01_free5, server: free.6vczxw.xyz, port: 41141, type: ss, cipher: chacha20-ietf-poly1305, password: 42c9b154-5ceb-422f-8d1f-136d3d110b5a}
-  - {name: 🇭🇰 香港02_free5, server: free.6vczxw.xyz, port: 41143, type: ss, cipher: chacha20-ietf-poly1305, password: 42c9b154-5ceb-422f-8d1f-136d3d110b5a}
-  - {name: 🇭🇰 香港03_free5, server: free.6vczxw.xyz, port: 41145, type: ss, cipher: chacha20-ietf-poly1305, password: 42c9b154-5ceb-422f-8d1f-136d3d110b5a}
-  - {name: 🇨🇳 台湾01_free5, server: free.6vczxw.xyz, port: 41241, type: ss, cipher: chacha20-ietf-poly1305, password: 42c9b154-5ceb-422f-8d1f-136d3d110b5a}
-  - {name: 🇨🇳 台湾02_free5, server: free.6vczxw.xyz, port: 41243, type: ss, cipher: chacha20-ietf-poly1305, password: 42c9b154-5ceb-422f-8d1f-136d3d110b5a}
-  - {name: 🇨🇳 台湾03_free5, server: free.6vczxw.xyz, port: 41245, type: ss, cipher: chacha20-ietf-poly1305, password: 42c9b154-5ceb-422f-8d1f-136d3d110b5a}
-  - {name: 🇯🇵 日本01_free5, server: free.6vczxw.xyz, port: 41111, type: ss, cipher: chacha20-ietf-poly1305, password: 42c9b154-5ceb-422f-8d1f-136d3d110b5a}
-  - {name: 🇯🇵 日本02_free5, server: free.6vczxw.xyz, port: 41113, type: ss, cipher: chacha20-ietf-poly1305, password: 42c9b154-5ceb-422f-8d1f-136d3d110b5a}
-  - {name: 🇯🇵 日本03_free5, server: free.6vczxw.xyz, port: 41115, type: ss, cipher: chacha20-ietf-poly1305, password: 42c9b154-5ceb-422f-8d1f-136d3d110b5a}
-  - {name: 🇸🇬 新加坡01_free5, server: free.6vczxw.xyz, port: 41171, type: ss, cipher: chacha20-ietf-poly1305, password: 42c9b154-5ceb-422f-8d1f-136d3d110b5a}
-  - {name: 🇸🇬 新加坡02_free5, server: free.6vczxw.xyz, port: 41173, type: ss, cipher: chacha20-ietf-poly1305, password: 42c9b154-5ceb-422f-8d1f-136d3d110b5a}
-  - {name: 🇸🇬 新加坡03_free5, server: free.6vczxw.xyz, port: 41175, type: ss, cipher: chacha20-ietf-poly1305, password: 42c9b154-5ceb-422f-8d1f-136d3d110b5a}
-  - {name: 🇰🇷 韩国01_free5, server: free.6vczxw.xyz, port: 41311, type: ss, cipher: chacha20-ietf-poly1305, password: 42c9b154-5ceb-422f-8d1f-136d3d110b5a}
-  - {name: 🇰🇷 韩国02_free5, server: free.6vczxw.xyz, port: 41313, type: ss, cipher: chacha20-ietf-poly1305, password: 42c9b154-5ceb-422f-8d1f-136d3d110b5a}
-  - {name: 🇵🇭 菲律宾01_free5, server: free.6vczxw.xyz, port: 41341, type: ss, cipher: chacha20-ietf-poly1305, password: 42c9b154-5ceb-422f-8d1f-136d3d110b5a}
-  - {name: 🇺🇸 美国01_free5, server: free.6vczxw.xyz, port: 41211, type: ss, cipher: chacha20-ietf-poly1305, password: 42c9b154-5ceb-422f-8d1f-136d3d110b5a}
-  - {name: 🇺🇸 美国02_free5, server: free.6vczxw.xyz, port: 41213, type: ss, cipher: chacha20-ietf-poly1305, password: 42c9b154-5ceb-422f-8d1f-136d3d110b5a}
-  - {name: 🇺🇸 美国03_free5, server: free.6vczxw.xyz, port: 41215, type: ss, cipher: chacha20-ietf-poly1305, password: 42c9b154-5ceb-422f-8d1f-136d3d110b5a}
-  - {name: 🇬🇧 英国01_free5, server: free.6vczxw.xyz, port: 41271, type: ss, cipher: chacha20-ietf-poly1305, password: 42c9b154-5ceb-422f-8d1f-136d3d110b5a}
-  - {name: 🇪🇸 西班牙01_free5, server: free.6vczxw.xyz, port: 41741, type: ss, cipher: chacha20-ietf-poly1305, password: 42c9b154-5ceb-422f-8d1f-136d3d110b5a}
-  - {name: 🇲🇾 马来西亚01_free5, server: free.6vczxw.xyz, port: 41721, type: ss, cipher: chacha20-ietf-poly1305, password: 42c9b154-5ceb-422f-8d1f-136d3d110b5a}
-  - {name: 🇲🇾 马来西亚02_free5, server: free.6vczxw.xyz, port: 41722, type: ss, cipher: chacha20-ietf-poly1305, password: 42c9b154-5ceb-422f-8d1f-136d3d110b5a}
-  - {name: 🇹🇭 泰国01_free5, server: free.6vczxw.xyz, port: 41731, type: ss, cipher: chacha20-ietf-poly1305, password: 42c9b154-5ceb-422f-8d1f-136d3d110b5a}
-  - {name: 🇮🇳 印度01_free5, server: free.6vczxw.xyz, port: 41371, type: ss, cipher: chacha20-ietf-poly1305, password: 42c9b154-5ceb-422f-8d1f-136d3d110b5a}
-  - {name: 🇦🇺 澳大利亚01_free5, server: free.6vczxw.xyz, port: 41411, type: ss, cipher: chacha20-ietf-poly1305, password: 42c9b154-5ceb-422f-8d1f-136d3d110b5a}
-  - {name: 🇨🇦 加拿大01_free5, server: free.6vczxw.xyz, port: 41441, type: ss, cipher: chacha20-ietf-poly1305, password: 42c9b154-5ceb-422f-8d1f-136d3d110b5a}
-  - {name: 🇩🇪 德国01_free5, server: free.6vczxw.xyz, port: 41471, type: ss, cipher: chacha20-ietf-poly1305, password: 42c9b154-5ceb-422f-8d1f-136d3d110b5a}
-  - {name: 🇷🇺 俄罗斯01_free5, server: free.6vczxw.xyz, port: 41511, type: ss, cipher: chacha20-ietf-poly1305, password: 42c9b154-5ceb-422f-8d1f-136d3d110b5a}
-  - {name: 🇹🇷 土耳其01_free5, server: free.6vczxw.xyz, port: 41571, type: ss, cipher: chacha20-ietf-poly1305, password: 42c9b154-5ceb-422f-8d1f-136d3d110b5a}
-  - {name: 🇺🇦 乌克兰01_free5, server: free.6vczxw.xyz, port: 41611, type: ss, cipher: chacha20-ietf-poly1305, password: 42c9b154-5ceb-422f-8d1f-136d3d110b5a}
-  - {name: 🇻🇳 越南01_free5, server: free.6vczxw.xyz, port: 41641, type: ss, cipher: chacha20-ietf-poly1305, password: 42c9b154-5ceb-422f-8d1f-136d3d110b5a}
-  - {name: 🇬🇧 free2：4.84 GB, server: free.6vczxw.xyz, port: 41141, type: ss, cipher: chacha20-ietf-poly1305, password: 82220cf8-576c-40b0-bad3-015199859cad}
-  - {name: 🇭🇰 香港01_free2, server: free.6vczxw.xyz, port: 41141, type: ss, cipher: chacha20-ietf-poly1305, password: 82220cf8-576c-40b0-bad3-015199859cad}
-  - {name: 🇭🇰 香港02_free2, server: free.6vczxw.xyz, port: 41143, type: ss, cipher: chacha20-ietf-poly1305, password: 82220cf8-576c-40b0-bad3-015199859cad}
-  - {name: 🇭🇰 香港03_free2, server: free.6vczxw.xyz, port: 41145, type: ss, cipher: chacha20-ietf-poly1305, password: 82220cf8-576c-40b0-bad3-015199859cad}
-  - {name: 🇨🇳 台湾01_free2, server: free.6vczxw.xyz, port: 41241, type: ss, cipher: chacha20-ietf-poly1305, password: 82220cf8-576c-40b0-bad3-015199859cad}
-  - {name: 🇨🇳 台湾02_free2, server: free.6vczxw.xyz, port: 41243, type: ss, cipher: chacha20-ietf-poly1305, password: 82220cf8-576c-40b0-bad3-015199859cad}
-  - {name: 🇨🇳 台湾03_free2, server: free.6vczxw.xyz, port: 41245, type: ss, cipher: chacha20-ietf-poly1305, password: 82220cf8-576c-40b0-bad3-015199859cad}
-  - {name: 🇯🇵 日本01_free2, server: free.6vczxw.xyz, port: 41111, type: ss, cipher: chacha20-ietf-poly1305, password: 82220cf8-576c-40b0-bad3-015199859cad}
-  - {name: 🇯🇵 日本02_free2, server: free.6vczxw.xyz, port: 41113, type: ss, cipher: chacha20-ietf-poly1305, password: 82220cf8-576c-40b0-bad3-015199859cad}
-  - {name: 🇯🇵 日本03_free2, server: free.6vczxw.xyz, port: 41115, type: ss, cipher: chacha20-ietf-poly1305, password: 82220cf8-576c-40b0-bad3-015199859cad}
-  - {name: 🇸🇬 新加坡01_free2, server: free.6vczxw.xyz, port: 41171, type: ss, cipher: chacha20-ietf-poly1305, password: 82220cf8-576c-40b0-bad3-015199859cad}
-  - {name: 🇸🇬 新加坡02_free2, server: free.6vczxw.xyz, port: 41173, type: ss, cipher: chacha20-ietf-poly1305, password: 82220cf8-576c-40b0-bad3-015199859cad}
-  - {name: 🇸🇬 新加坡03_free2, server: free.6vczxw.xyz, port: 41175, type: ss, cipher: chacha20-ietf-poly1305, password: 82220cf8-576c-40b0-bad3-015199859cad}
-  - {name: 🇰🇷 韩国01_free2, server: free.6vczxw.xyz, port: 41311, type: ss, cipher: chacha20-ietf-poly1305, password: 82220cf8-576c-40b0-bad3-015199859cad}
-  - {name: 🇰🇷 韩国02_free2, server: free.6vczxw.xyz, port: 41313, type: ss, cipher: chacha20-ietf-poly1305, password: 82220cf8-576c-40b0-bad3-015199859cad}
-  - {name: 🇵🇭 菲律宾01_free2, server: free.6vczxw.xyz, port: 41341, type: ss, cipher: chacha20-ietf-poly1305, password: 82220cf8-576c-40b0-bad3-015199859cad}
-  - {name: 🇺🇸 美国01_free2, server: free.6vczxw.xyz, port: 41211, type: ss, cipher: chacha20-ietf-poly1305, password: 82220cf8-576c-40b0-bad3-015199859cad}
-  - {name: 🇺🇸 美国02_free2, server: free.6vczxw.xyz, port: 41213, type: ss, cipher: chacha20-ietf-poly1305, password: 82220cf8-576c-40b0-bad3-015199859cad}
-  - {name: 🇺🇸 美国03_free2, server: free.6vczxw.xyz, port: 41215, type: ss, cipher: chacha20-ietf-poly1305, password: 82220cf8-576c-40b0-bad3-015199859cad}
-  - {name: 🇬🇧 英国01_free2, server: free.6vczxw.xyz, port: 41271, type: ss, cipher: chacha20-ietf-poly1305, password: 82220cf8-576c-40b0-bad3-015199859cad}
-  - {name: 🇪🇸 西班牙01_free2, server: free.6vczxw.xyz, port: 41741, type: ss, cipher: chacha20-ietf-poly1305, password: 82220cf8-576c-40b0-bad3-015199859cad}
-  - {name: 🇲🇾 马来西亚01_free2, server: free.6vczxw.xyz, port: 41721, type: ss, cipher: chacha20-ietf-poly1305, password: 82220cf8-576c-40b0-bad3-015199859cad}
-  - {name: 🇲🇾 马来西亚02_free2, server: free.6vczxw.xyz, port: 41722, type: ss, cipher: chacha20-ietf-poly1305, password: 82220cf8-576c-40b0-bad3-015199859cad}
-  - {name: 🇹🇭 泰国01_free2, server: free.6vczxw.xyz, port: 41731, type: ss, cipher: chacha20-ietf-poly1305, password: 82220cf8-576c-40b0-bad3-015199859cad}
-  - {name: 🇮🇳 印度01_free2, server: free.6vczxw.xyz, port: 41371, type: ss, cipher: chacha20-ietf-poly1305, password: 82220cf8-576c-40b0-bad3-015199859cad}
-  - {name: 🇦🇺 澳大利亚01_free2, server: free.6vczxw.xyz, port: 41411, type: ss, cipher: chacha20-ietf-poly1305, password: 82220cf8-576c-40b0-bad3-015199859cad}
-  - {name: 🇨🇦 加拿大01_free2, server: free.6vczxw.xyz, port: 41441, type: ss, cipher: chacha20-ietf-poly1305, password: 82220cf8-576c-40b0-bad3-015199859cad}
-  - {name: 🇩🇪 德国01_free2, server: free.6vczxw.xyz, port: 41471, type: ss, cipher: chacha20-ietf-poly1305, password: 82220cf8-576c-40b0-bad3-015199859cad}
-  - {name: 🇷🇺 俄罗斯01_free2, server: free.6vczxw.xyz, port: 41511, type: ss, cipher: chacha20-ietf-poly1305, password: 82220cf8-576c-40b0-bad3-015199859cad}
-  - {name: 🇹🇷 土耳其01_free2, server: free.6vczxw.xyz, port: 41571, type: ss, cipher: chacha20-ietf-poly1305, password: 82220cf8-576c-40b0-bad3-015199859cad}
-  - {name: 🇺🇦 乌克兰01_free2, server: free.6vczxw.xyz, port: 41611, type: ss, cipher: chacha20-ietf-poly1305, password: 82220cf8-576c-40b0-bad3-015199859cad}
-  - {name: 🇻🇳 越南01_free2, server: free.6vczxw.xyz, port: 41641, type: ss, cipher: chacha20-ietf-poly1305, password: 82220cf8-576c-40b0-bad3-015199859cad}
-  - {name: 🇬🇧 free3：5 GB, server: free.2apzhfa.xyz, port: 31141, type: ss, cipher: chacha20-ietf-poly1305, password: 3f3c9f36-5244-47ae-94f5-775351963450}
-  - {name: 🇭🇰 香港 01_free3, server: free.2apzhfa.xyz, port: 31141, type: ss, cipher: chacha20-ietf-poly1305, password: 3f3c9f36-5244-47ae-94f5-775351963450}
-  - {name: 🇭🇰 香港 02_free3, server: free.2apzhfa.xyz, port: 31143, type: ss, cipher: chacha20-ietf-poly1305, password: 3f3c9f36-5244-47ae-94f5-775351963450}
-  - {name: 🇭🇰 香港家宽 03_free3, server: free.2apzhfa.xyz, port: 31145, type: ss, cipher: chacha20-ietf-poly1305, password: 3f3c9f36-5244-47ae-94f5-775351963450}
-  - {name: 🇨🇳 台湾 01_free3, server: free.2apzhfa.xyz, port: 31241, type: ss, cipher: chacha20-ietf-poly1305, password: 3f3c9f36-5244-47ae-94f5-775351963450}
-  - {name: 🇨🇳 台湾 02_free3, server: free.2apzhfa.xyz, port: 31243, type: ss, cipher: chacha20-ietf-poly1305, password: 3f3c9f36-5244-47ae-94f5-775351963450}
-  - {name: 🇨🇳 台湾 03_free3, server: free.2apzhfa.xyz, port: 31245, type: ss, cipher: chacha20-ietf-poly1305, password: 3f3c9f36-5244-47ae-94f5-775351963450}
-  - {name: 🇯🇵 日本 01_free3, server: free.2apzhfa.xyz, port: 31111, type: ss, cipher: chacha20-ietf-poly1305, password: 3f3c9f36-5244-47ae-94f5-775351963450}
-  - {name: 🇯🇵 日本 02_free3, server: free.2apzhfa.xyz, port: 31113, type: ss, cipher: chacha20-ietf-poly1305, password: 3f3c9f36-5244-47ae-94f5-775351963450}
-  - {name: 🇯🇵 日本 03_free3, server: free.2apzhfa.xyz, port: 31115, type: ss, cipher: chacha20-ietf-poly1305, password: 3f3c9f36-5244-47ae-94f5-775351963450}
-  - {name: 🇸🇬 新加坡 01_free3, server: free.2apzhfa.xyz, port: 31171, type: ss, cipher: chacha20-ietf-poly1305, password: 3f3c9f36-5244-47ae-94f5-775351963450}
-  - {name: 🇸🇬 新加坡 02_free3, server: free.2apzhfa.xyz, port: 31173, type: ss, cipher: chacha20-ietf-poly1305, password: 3f3c9f36-5244-47ae-94f5-775351963450}
-  - {name: 🇸🇬 新加坡 03_free3, server: free.2apzhfa.xyz, port: 31175, type: ss, cipher: chacha20-ietf-poly1305, password: 3f3c9f36-5244-47ae-94f5-775351963450}
-  - {name: 🇰🇷 韩国 01_free3, server: free.2apzhfa.xyz, port: 31311, type: ss, cipher: chacha20-ietf-poly1305, password: 3f3c9f36-5244-47ae-94f5-775351963450}
-  - {name: 🇰🇷 韩国 02_free3, server: free.2apzhfa.xyz, port: 31313, type: ss, cipher: chacha20-ietf-poly1305, password: 3f3c9f36-5244-47ae-94f5-775351963450}
-  - {name: 🇵🇭 菲律宾 01_free3, server: free.2apzhfa.xyz, port: 31341, type: ss, cipher: chacha20-ietf-poly1305, password: 3f3c9f36-5244-47ae-94f5-775351963450}
-  - {name: 🇺🇸 美国 01_free3, server: free.2apzhfa.xyz, port: 31211, type: ss, cipher: chacha20-ietf-poly1305, password: 3f3c9f36-5244-47ae-94f5-775351963450}
-  - {name: 🇺🇸 美国家宽 02_free3, server: free.2apzhfa.xyz, port: 31213, type: ss, cipher: chacha20-ietf-poly1305, password: 3f3c9f36-5244-47ae-94f5-775351963450}
-  - {name: 🇺🇸 美国 03_free3, server: free.2apzhfa.xyz, port: 31215, type: ss, cipher: chacha20-ietf-poly1305, password: 3f3c9f36-5244-47ae-94f5-775351963450}
-  - {name: 🇬🇧 英国家宽 01_free3, server: free.2apzhfa.xyz, port: 31271, type: ss, cipher: chacha20-ietf-poly1305, password: 3f3c9f36-5244-47ae-94f5-775351963450}
-  - {name: 🇪🇸 西班牙01_free3, server: free.2apzhfa.xyz, port: 31741, type: ss, cipher: chacha20-ietf-poly1305, password: 3f3c9f36-5244-47ae-94f5-775351963450}
-  - {name: 🇲🇾 马来西亚01_free3, server: free.2apzhfa.xyz, port: 31721, type: ss, cipher: chacha20-ietf-poly1305, password: 3f3c9f36-5244-47ae-94f5-775351963450}
-  - {name: 🇲🇾 马来西亚02_free3, server: free.2apzhfa.xyz, port: 31722, type: ss, cipher: chacha20-ietf-poly1305, password: 3f3c9f36-5244-47ae-94f5-775351963450}
-  - {name: 🇹🇭 泰国01 _free3, server: free.2apzhfa.xyz, port: 31741, type: ss, cipher: chacha20-ietf-poly1305, password: 3f3c9f36-5244-47ae-94f5-775351963450}
-  - {name: 🇮🇳 印度 01_free3, server: free.2apzhfa.xyz, port: 31371, type: ss, cipher: chacha20-ietf-poly1305, password: 3f3c9f36-5244-47ae-94f5-775351963450}
-  - {name: 🇦🇺 澳大利亚 01_free3, server: free.2apzhfa.xyz, port: 31411, type: ss, cipher: chacha20-ietf-poly1305, password: 3f3c9f36-5244-47ae-94f5-775351963450}
-  - {name: 🇨🇦 加拿大 01_free3, server: free.2apzhfa.xyz, port: 31441, type: ss, cipher: chacha20-ietf-poly1305, password: 3f3c9f36-5244-47ae-94f5-775351963450}
-  - {name: 🇩🇪 德国 01_free3, server: free.2apzhfa.xyz, port: 31471, type: ss, cipher: chacha20-ietf-poly1305, password: 3f3c9f36-5244-47ae-94f5-775351963450}
-  - {name: 🇷🇺 俄罗斯 01_free3, server: free.2apzhfa.xyz, port: 31511, type: ss, cipher: chacha20-ietf-poly1305, password: 3f3c9f36-5244-47ae-94f5-775351963450}
-  - {name: 🇹🇷 土耳其 01_free3, server: free.2apzhfa.xyz, port: 31571, type: ss, cipher: chacha20-ietf-poly1305, password: 3f3c9f36-5244-47ae-94f5-775351963450}
-  - {name: 🇺🇦 乌克兰 01_free3, server: free.2apzhfa.xyz, port: 31611, type: ss, cipher: chacha20-ietf-poly1305, password: 3f3c9f36-5244-47ae-94f5-775351963450}
-  - {name: 🇻🇳 越南 01_free3, server: free.2apzhfa.xyz, port: 31641, type: ss, cipher: chacha20-ietf-poly1305, password: 3f3c9f36-5244-47ae-94f5-775351963450}
-  - {name: 🇧🇷 巴西 01_free3, server: free.2apzhfa.xyz, port: 31671, type: ss, cipher: chacha20-ietf-poly1305, password: 3f3c9f36-5244-47ae-94f5-775351963450}
-  - {name: 🇮🇩 印度尼西亚 01_free3, server: free.2apzhfa.xyz, port: 31677, type: ss, cipher: chacha20-ietf-poly1305, password: 3f3c9f36-5244-47ae-94f5-775351963450}
-  - {name: 🇬🇧 free3：4.91 GB, server: free.2weradf.xyz, port: 36141, type: ss, cipher: chacha20-ietf-poly1305, password: 8a132795-4351-4903-8702-decfafdb9666}
-  - {name: 🇭🇰 香港 01_free3, server: free.2weradf.xyz, port: 36141, type: ss, cipher: chacha20-ietf-poly1305, password: 8a132795-4351-4903-8702-decfafdb9666}
-  - {name: 🇭🇰 香港 02_free3, server: free.2weradf.xyz, port: 36143, type: ss, cipher: chacha20-ietf-poly1305, password: 8a132795-4351-4903-8702-decfafdb9666}
-  - {name: 🇭🇰 香港住宅IP 03_free3, server: free.2weradf.xyz, port: 36145, type: ss, cipher: chacha20-ietf-poly1305, password: 8a132795-4351-4903-8702-decfafdb9666}
-  - {name: 🇨🇳 台湾 01_free3, server: free.2weradf.xyz, port: 36241, type: ss, cipher: chacha20-ietf-poly1305, password: 8a132795-4351-4903-8702-decfafdb9666}
-  - {name: 🇨🇳 台湾 02_free3, server: free.2weradf.xyz, port: 36243, type: ss, cipher: chacha20-ietf-poly1305, password: 8a132795-4351-4903-8702-decfafdb9666}
-  - {name: 🇨🇳 台湾 03_free3, server: free.2weradf.xyz, port: 36245, type: ss, cipher: chacha20-ietf-poly1305, password: 8a132795-4351-4903-8702-decfafdb9666}
-  - {name: 🇯🇵 日本 01_free3, server: free.2weradf.xyz, port: 36111, type: ss, cipher: chacha20-ietf-poly1305, password: 8a132795-4351-4903-8702-decfafdb9666}
-  - {name: 🇯🇵 日本 02_free3, server: free.2weradf.xyz, port: 36113, type: ss, cipher: chacha20-ietf-poly1305, password: 8a132795-4351-4903-8702-decfafdb9666}
-  - {name: 🇯🇵 日本 03_free3, server: free.2weradf.xyz, port: 36115, type: ss, cipher: chacha20-ietf-poly1305, password: 8a132795-4351-4903-8702-decfafdb9666}
-  - {name: 🇸🇬 新加坡 01_free3, server: free.2weradf.xyz, port: 36171, type: ss, cipher: chacha20-ietf-poly1305, password: 8a132795-4351-4903-8702-decfafdb9666}
-  - {name: 🇸🇬 新加坡 02_free3, server: free.2weradf.xyz, port: 36173, type: ss, cipher: chacha20-ietf-poly1305, password: 8a132795-4351-4903-8702-decfafdb9666}
-  - {name: 🇸🇬 新加坡 03_free3, server: free.2weradf.xyz, port: 36175, type: ss, cipher: chacha20-ietf-poly1305, password: 8a132795-4351-4903-8702-decfafdb9666}
-  - {name: 🇰🇷 韩国 01_free3, server: free.2weradf.xyz, port: 36311, type: ss, cipher: chacha20-ietf-poly1305, password: 8a132795-4351-4903-8702-decfafdb9666}
-  - {name: 🇰🇷 韩国 02_free3, server: free.2weradf.xyz, port: 36313, type: ss, cipher: chacha20-ietf-poly1305, password: 8a132795-4351-4903-8702-decfafdb9666}
-  - {name: 🇵🇭 菲律宾 01_free3, server: free.2weradf.xyz, port: 36341, type: ss, cipher: chacha20-ietf-poly1305, password: 8a132795-4351-4903-8702-decfafdb9666}
-  - {name: 🇺🇸 美国 01_free3, server: free.2weradf.xyz, port: 36211, type: ss, cipher: chacha20-ietf-poly1305, password: 8a132795-4351-4903-8702-decfafdb9666}
-  - {name: 🇺🇸 美国住宅IP 02_free3, server: free.2weradf.xyz, port: 36213, type: ss, cipher: chacha20-ietf-poly1305, password: 8a132795-4351-4903-8702-decfafdb9666}
-  - {name: 🇺🇸 美国 03_free3, server: free.2weradf.xyz, port: 36215, type: ss, cipher: chacha20-ietf-poly1305, password: 8a132795-4351-4903-8702-decfafdb9666}
-  - {name: 🇬🇧 英国住宅IP 01_free3, server: free.2weradf.xyz, port: 36271, type: ss, cipher: chacha20-ietf-poly1305, password: 8a132795-4351-4903-8702-decfafdb9666}
-  - {name: 🇲🇾 马来西亚 01_free3, server: free.2weradf.xyz, port: 36721, type: ss, cipher: chacha20-ietf-poly1305, password: 8a132795-4351-4903-8702-decfafdb9666}
-  - {name: 🇲🇾 马来西亚 02_free3, server: free.2weradf.xyz, port: 36722, type: ss, cipher: chacha20-ietf-poly1305, password: 8a132795-4351-4903-8702-decfafdb9666}
-  - {name: 🇪🇸 西班牙 01_free3, server: free.2weradf.xyz, port: 36741, type: ss, cipher: chacha20-ietf-poly1305, password: 8a132795-4351-4903-8702-decfafdb9666}
-  - {name: 🇹🇭 泰国 01_free3, server: free.2weradf.xyz, port: 36731, type: ss, cipher: chacha20-ietf-poly1305, password: 8a132795-4351-4903-8702-decfafdb9666}
-  - {name: 🇮🇳 印度 01_free3, server: free.2weradf.xyz, port: 36371, type: ss, cipher: chacha20-ietf-poly1305, password: 8a132795-4351-4903-8702-decfafdb9666}
-  - {name: 🇦🇺 澳大利亚 01_free3, server: free.2weradf.xyz, port: 36411, type: ss, cipher: chacha20-ietf-poly1305, password: 8a132795-4351-4903-8702-decfafdb9666}
-  - {name: 🇨🇦 加拿大 01_free3, server: free.2weradf.xyz, port: 36441, type: ss, cipher: chacha20-ietf-poly1305, password: 8a132795-4351-4903-8702-decfafdb9666}
-  - {name: 🇩🇪 德国 01_free3, server: free.2weradf.xyz, port: 36471, type: ss, cipher: chacha20-ietf-poly1305, password: 8a132795-4351-4903-8702-decfafdb9666}
-  - {name: 🇷🇺 俄罗斯 01_free3, server: free.2weradf.xyz, port: 36511, type: ss, cipher: chacha20-ietf-poly1305, password: 8a132795-4351-4903-8702-decfafdb9666}
-  - {name: 🇹🇷 土耳其 01_free3, server: free.2weradf.xyz, port: 36571, type: ss, cipher: chacha20-ietf-poly1305, password: 8a132795-4351-4903-8702-decfafdb9666}
-  - {name: 🇺🇦 乌克兰 01_free3, server: free.2weradf.xyz, port: 36611, type: ss, cipher: chacha20-ietf-poly1305, password: 8a132795-4351-4903-8702-decfafdb9666}
-  - {name: 🇻🇳 越南 01_free3, server: free.2weradf.xyz, port: 36641, type: ss, cipher: chacha20-ietf-poly1305, password: 8a132795-4351-4903-8702-decfafdb9666}
-  - {name: 🇧🇷 巴西 01_free3, server: free.2weradf.xyz, port: 36671, type: ss, cipher: chacha20-ietf-poly1305, password: 8a132795-4351-4903-8702-decfafdb9666}
-  - {name: 🇮🇩 印度尼西亚 01_free3, server: free.2weradf.xyz, port: 36677, type: ss, cipher: chacha20-ietf-poly1305, password: 8a132795-4351-4903-8702-decfafdb9666}
-  - {name: 🇬🇧 free：4.98 GB, server: free.2weradf.xyz, port: 36141, type: ss, cipher: chacha20-ietf-poly1305, password: 63855fe3-6bbc-4212-8a9f-7e36b41fc24a}
-  - {name: 🇭🇰 香港 01_free, server: free.2weradf.xyz, port: 36141, type: ss, cipher: chacha20-ietf-poly1305, password: 63855fe3-6bbc-4212-8a9f-7e36b41fc24a}
-  - {name: 🇭🇰 香港 02_free, server: free.2weradf.xyz, port: 36143, type: ss, cipher: chacha20-ietf-poly1305, password: 63855fe3-6bbc-4212-8a9f-7e36b41fc24a}
-  - {name: 🇭🇰 香港住宅IP 03_free, server: free.2weradf.xyz, port: 36145, type: ss, cipher: chacha20-ietf-poly1305, password: 63855fe3-6bbc-4212-8a9f-7e36b41fc24a}
-  - {name: 🇨🇳 台湾 01_free, server: free.2weradf.xyz, port: 36241, type: ss, cipher: chacha20-ietf-poly1305, password: 63855fe3-6bbc-4212-8a9f-7e36b41fc24a}
-  - {name: 🇨🇳 台湾 02_free, server: free.2weradf.xyz, port: 36243, type: ss, cipher: chacha20-ietf-poly1305, password: 63855fe3-6bbc-4212-8a9f-7e36b41fc24a}
-  - {name: 🇨🇳 台湾 03_free, server: free.2weradf.xyz, port: 36245, type: ss, cipher: chacha20-ietf-poly1305, password: 63855fe3-6bbc-4212-8a9f-7e36b41fc24a}
-  - {name: 🇯🇵 日本 01_free, server: free.2weradf.xyz, port: 36111, type: ss, cipher: chacha20-ietf-poly1305, password: 63855fe3-6bbc-4212-8a9f-7e36b41fc24a}
-  - {name: 🇯🇵 日本 02_free, server: free.2weradf.xyz, port: 36113, type: ss, cipher: chacha20-ietf-poly1305, password: 63855fe3-6bbc-4212-8a9f-7e36b41fc24a}
-  - {name: 🇯🇵 日本 03_free, server: free.2weradf.xyz, port: 36115, type: ss, cipher: chacha20-ietf-poly1305, password: 63855fe3-6bbc-4212-8a9f-7e36b41fc24a}
-  - {name: 🇸🇬 新加坡 01_free, server: free.2weradf.xyz, port: 36171, type: ss, cipher: chacha20-ietf-poly1305, password: 63855fe3-6bbc-4212-8a9f-7e36b41fc24a}
-  - {name: 🇸🇬 新加坡 02_free, server: free.2weradf.xyz, port: 36173, type: ss, cipher: chacha20-ietf-poly1305, password: 63855fe3-6bbc-4212-8a9f-7e36b41fc24a}
-  - {name: 🇸🇬 新加坡 03_free, server: free.2weradf.xyz, port: 36175, type: ss, cipher: chacha20-ietf-poly1305, password: 63855fe3-6bbc-4212-8a9f-7e36b41fc24a}
-  - {name: 🇰🇷 韩国 01_free, server: free.2weradf.xyz, port: 36311, type: ss, cipher: chacha20-ietf-poly1305, password: 63855fe3-6bbc-4212-8a9f-7e36b41fc24a}
-  - {name: 🇰🇷 韩国 02_free, server: free.2weradf.xyz, port: 36313, type: ss, cipher: chacha20-ietf-poly1305, password: 63855fe3-6bbc-4212-8a9f-7e36b41fc24a}
-  - {name: 🇵🇭 菲律宾 01_free, server: free.2weradf.xyz, port: 36341, type: ss, cipher: chacha20-ietf-poly1305, password: 63855fe3-6bbc-4212-8a9f-7e36b41fc24a}
-  - {name: 🇺🇸 美国 01_free, server: free.2weradf.xyz, port: 36211, type: ss, cipher: chacha20-ietf-poly1305, password: 63855fe3-6bbc-4212-8a9f-7e36b41fc24a}
-  - {name: 🇺🇸 美国住宅IP 02_free, server: free.2weradf.xyz, port: 36213, type: ss, cipher: chacha20-ietf-poly1305, password: 63855fe3-6bbc-4212-8a9f-7e36b41fc24a}
-  - {name: 🇺🇸 美国 03_free, server: free.2weradf.xyz, port: 36215, type: ss, cipher: chacha20-ietf-poly1305, password: 63855fe3-6bbc-4212-8a9f-7e36b41fc24a}
-  - {name: 🇬🇧 英国住宅IP 01_free, server: free.2weradf.xyz, port: 36271, type: ss, cipher: chacha20-ietf-poly1305, password: 63855fe3-6bbc-4212-8a9f-7e36b41fc24a}
-  - {name: 🇲🇾 马来西亚 01_free, server: free.2weradf.xyz, port: 36721, type: ss, cipher: chacha20-ietf-poly1305, password: 63855fe3-6bbc-4212-8a9f-7e36b41fc24a}
-  - {name: 🇲🇾 马来西亚 02_free, server: free.2weradf.xyz, port: 36722, type: ss, cipher: chacha20-ietf-poly1305, password: 63855fe3-6bbc-4212-8a9f-7e36b41fc24a}
-  - {name: 🇪🇸 西班牙 01_free, server: free.2weradf.xyz, port: 36741, type: ss, cipher: chacha20-ietf-poly1305, password: 63855fe3-6bbc-4212-8a9f-7e36b41fc24a}
-  - {name: 🇹🇭 泰国 01_free, server: free.2weradf.xyz, port: 36731, type: ss, cipher: chacha20-ietf-poly1305, password: 63855fe3-6bbc-4212-8a9f-7e36b41fc24a}
-  - {name: 🇮🇳 印度 01_free, server: free.2weradf.xyz, port: 36371, type: ss, cipher: chacha20-ietf-poly1305, password: 63855fe3-6bbc-4212-8a9f-7e36b41fc24a}
-  - {name: 🇦🇺 澳大利亚 01_free, server: free.2weradf.xyz, port: 36411, type: ss, cipher: chacha20-ietf-poly1305, password: 63855fe3-6bbc-4212-8a9f-7e36b41fc24a}
-  - {name: 🇨🇦 加拿大 01_free, server: free.2weradf.xyz, port: 36441, type: ss, cipher: chacha20-ietf-poly1305, password: 63855fe3-6bbc-4212-8a9f-7e36b41fc24a}
-  - {name: 🇩🇪 德国 01_free, server: free.2weradf.xyz, port: 36471, type: ss, cipher: chacha20-ietf-poly1305, password: 63855fe3-6bbc-4212-8a9f-7e36b41fc24a}
-  - {name: 🇷🇺 俄罗斯 01_free, server: free.2weradf.xyz, port: 36511, type: ss, cipher: chacha20-ietf-poly1305, password: 63855fe3-6bbc-4212-8a9f-7e36b41fc24a}
-  - {name: 🇹🇷 土耳其 01_free, server: free.2weradf.xyz, port: 36571, type: ss, cipher: chacha20-ietf-poly1305, password: 63855fe3-6bbc-4212-8a9f-7e36b41fc24a}
-  - {name: 🇺🇦 乌克兰 01_free, server: free.2weradf.xyz, port: 36611, type: ss, cipher: chacha20-ietf-poly1305, password: 63855fe3-6bbc-4212-8a9f-7e36b41fc24a}
-  - {name: 🇻🇳 越南 01_free, server: free.2weradf.xyz, port: 36641, type: ss, cipher: chacha20-ietf-poly1305, password: 63855fe3-6bbc-4212-8a9f-7e36b41fc24a}
-  - {name: 🇧🇷 巴西 01_free, server: free.2weradf.xyz, port: 36671, type: ss, cipher: chacha20-ietf-poly1305, password: 63855fe3-6bbc-4212-8a9f-7e36b41fc24a}
-  - {name: 🇮🇩 印度尼西亚 01_free, server: free.2weradf.xyz, port: 36677, type: ss, cipher: chacha20-ietf-poly1305, password: 63855fe3-6bbc-4212-8a9f-7e36b41fc24a}
-  - {name: 🇬🇧 free：4.09 GB, server: free.2apzhfa.xyz, port: 31141, type: ss, cipher: chacha20-ietf-poly1305, password: 73616165-af47-4daf-99b1-10f20b7ff4f6}
-  - {name: 🇭🇰 香港 01_free, server: free.2apzhfa.xyz, port: 31141, type: ss, cipher: chacha20-ietf-poly1305, password: 73616165-af47-4daf-99b1-10f20b7ff4f6}
-  - {name: 🇭🇰 香港 02_free, server: free.2apzhfa.xyz, port: 31143, type: ss, cipher: chacha20-ietf-poly1305, password: 73616165-af47-4daf-99b1-10f20b7ff4f6}
-  - {name: 🇭🇰 香港家宽 03_free, server: free.2apzhfa.xyz, port: 31145, type: ss, cipher: chacha20-ietf-poly1305, password: 73616165-af47-4daf-99b1-10f20b7ff4f6}
-  - {name: 🇨🇳 台湾 01_free, server: free.2apzhfa.xyz, port: 31241, type: ss, cipher: chacha20-ietf-poly1305, password: 73616165-af47-4daf-99b1-10f20b7ff4f6}
-  - {name: 🇨🇳 台湾 02_free, server: free.2apzhfa.xyz, port: 31243, type: ss, cipher: chacha20-ietf-poly1305, password: 73616165-af47-4daf-99b1-10f20b7ff4f6}
-  - {name: 🇨🇳 台湾 03_free, server: free.2apzhfa.xyz, port: 31245, type: ss, cipher: chacha20-ietf-poly1305, password: 73616165-af47-4daf-99b1-10f20b7ff4f6}
-  - {name: 🇯🇵 日本 01_free, server: free.2apzhfa.xyz, port: 31111, type: ss, cipher: chacha20-ietf-poly1305, password: 73616165-af47-4daf-99b1-10f20b7ff4f6}
-  - {name: 🇯🇵 日本 02_free, server: free.2apzhfa.xyz, port: 31113, type: ss, cipher: chacha20-ietf-poly1305, password: 73616165-af47-4daf-99b1-10f20b7ff4f6}
-  - {name: 🇯🇵 日本 03_free, server: free.2apzhfa.xyz, port: 31115, type: ss, cipher: chacha20-ietf-poly1305, password: 73616165-af47-4daf-99b1-10f20b7ff4f6}
-  - {name: 🇸🇬 新加坡 01_free, server: free.2apzhfa.xyz, port: 31171, type: ss, cipher: chacha20-ietf-poly1305, password: 73616165-af47-4daf-99b1-10f20b7ff4f6}
-  - {name: 🇸🇬 新加坡 02_free, server: free.2apzhfa.xyz, port: 31173, type: ss, cipher: chacha20-ietf-poly1305, password: 73616165-af47-4daf-99b1-10f20b7ff4f6}
-  - {name: 🇸🇬 新加坡 03_free, server: free.2apzhfa.xyz, port: 31175, type: ss, cipher: chacha20-ietf-poly1305, password: 73616165-af47-4daf-99b1-10f20b7ff4f6}
-  - {name: 🇰🇷 韩国 01_free, server: free.2apzhfa.xyz, port: 31311, type: ss, cipher: chacha20-ietf-poly1305, password: 73616165-af47-4daf-99b1-10f20b7ff4f6}
-  - {name: 🇰🇷 韩国 02_free, server: free.2apzhfa.xyz, port: 31313, type: ss, cipher: chacha20-ietf-poly1305, password: 73616165-af47-4daf-99b1-10f20b7ff4f6}
-  - {name: 🇵🇭 菲律宾 01_free, server: free.2apzhfa.xyz, port: 31341, type: ss, cipher: chacha20-ietf-poly1305, password: 73616165-af47-4daf-99b1-10f20b7ff4f6}
-  - {name: 🇺🇸 美国 01_free, server: free.2apzhfa.xyz, port: 31211, type: ss, cipher: chacha20-ietf-poly1305, password: 73616165-af47-4daf-99b1-10f20b7ff4f6}
-  - {name: 🇺🇸 美国家宽 02_free, server: free.2apzhfa.xyz, port: 31213, type: ss, cipher: chacha20-ietf-poly1305, password: 73616165-af47-4daf-99b1-10f20b7ff4f6}
-  - {name: 🇺🇸 美国 03_free, server: free.2apzhfa.xyz, port: 31215, type: ss, cipher: chacha20-ietf-poly1305, password: 73616165-af47-4daf-99b1-10f20b7ff4f6}
-  - {name: 🇬🇧 英国家宽 01_free, server: free.2apzhfa.xyz, port: 31271, type: ss, cipher: chacha20-ietf-poly1305, password: 73616165-af47-4daf-99b1-10f20b7ff4f6}
-  - {name: 🇪🇸 西班牙01_free, server: free.2apzhfa.xyz, port: 31741, type: ss, cipher: chacha20-ietf-poly1305, password: 73616165-af47-4daf-99b1-10f20b7ff4f6}
-  - {name: 🇲🇾 马来西亚01_free, server: free.2apzhfa.xyz, port: 31721, type: ss, cipher: chacha20-ietf-poly1305, password: 73616165-af47-4daf-99b1-10f20b7ff4f6}
-  - {name: 🇲🇾 马来西亚02_free, server: free.2apzhfa.xyz, port: 31722, type: ss, cipher: chacha20-ietf-poly1305, password: 73616165-af47-4daf-99b1-10f20b7ff4f6}
-  - {name: 🇹🇭 泰国01 _free, server: free.2apzhfa.xyz, port: 31741, type: ss, cipher: chacha20-ietf-poly1305, password: 73616165-af47-4daf-99b1-10f20b7ff4f6}
-  - {name: 🇮🇳 印度 01_free, server: free.2apzhfa.xyz, port: 31371, type: ss, cipher: chacha20-ietf-poly1305, password: 73616165-af47-4daf-99b1-10f20b7ff4f6}
-  - {name: 🇦🇺 澳大利亚 01_free, server: free.2apzhfa.xyz, port: 31411, type: ss, cipher: chacha20-ietf-poly1305, password: 73616165-af47-4daf-99b1-10f20b7ff4f6}
-  - {name: 🇨🇦 加拿大 01_free, server: free.2apzhfa.xyz, port: 31441, type: ss, cipher: chacha20-ietf-poly1305, password: 73616165-af47-4daf-99b1-10f20b7ff4f6}
-  - {name: 🇩🇪 德国 01_free, server: free.2apzhfa.xyz, port: 31471, type: ss, cipher: chacha20-ietf-poly1305, password: 73616165-af47-4daf-99b1-10f20b7ff4f6}
-  - {name: 🇷🇺 俄罗斯 01_free, server: free.2apzhfa.xyz, port: 31511, type: ss, cipher: chacha20-ietf-poly1305, password: 73616165-af47-4daf-99b1-10f20b7ff4f6}
-  - {name: 🇹🇷 土耳其 01_free, server: free.2apzhfa.xyz, port: 31571, type: ss, cipher: chacha20-ietf-poly1305, password: 73616165-af47-4daf-99b1-10f20b7ff4f6}
-  - {name: 🇺🇦 乌克兰 01_free, server: free.2apzhfa.xyz, port: 31611, type: ss, cipher: chacha20-ietf-poly1305, password: 73616165-af47-4daf-99b1-10f20b7ff4f6}
-  - {name: 🇻🇳 越南 01_free, server: free.2apzhfa.xyz, port: 31641, type: ss, cipher: chacha20-ietf-poly1305, password: 73616165-af47-4daf-99b1-10f20b7ff4f6}
-  - {name: 🇧🇷 巴西 01_free, server: free.2apzhfa.xyz, port: 31671, type: ss, cipher: chacha20-ietf-poly1305, password: 73616165-af47-4daf-99b1-10f20b7ff4f6}
-  - {name: 🇮🇩 印度尼西亚 01_free, server: free.2apzhfa.xyz, port: 31677, type: ss, cipher: chacha20-ietf-poly1305, password: 73616165-af47-4daf-99b1-10f20b7ff4f6}
+  - {name: 🇬🇧 free3：4.73 GB, server: free.2weradf.xyz, port: 36141, type: ss, cipher: chacha20-ietf-poly1305, password: 8a466e65-646b-47c0-b121-45cdb381a229}
+  - {name: 🇭🇰 香港 01_free3, server: free.2weradf.xyz, port: 36141, type: ss, cipher: chacha20-ietf-poly1305, password: 8a466e65-646b-47c0-b121-45cdb381a229}
+  - {name: 🇭🇰 香港 02_free3, server: free.2weradf.xyz, port: 36143, type: ss, cipher: chacha20-ietf-poly1305, password: 8a466e65-646b-47c0-b121-45cdb381a229}
+  - {name: 🇭🇰 香港住宅IP 03_free3, server: free.2weradf.xyz, port: 36145, type: ss, cipher: chacha20-ietf-poly1305, password: 8a466e65-646b-47c0-b121-45cdb381a229}
+  - {name: 🇨🇳 台湾 01_free3, server: free.2weradf.xyz, port: 36241, type: ss, cipher: chacha20-ietf-poly1305, password: 8a466e65-646b-47c0-b121-45cdb381a229}
+  - {name: 🇨🇳 台湾 02_free3, server: free.2weradf.xyz, port: 36243, type: ss, cipher: chacha20-ietf-poly1305, password: 8a466e65-646b-47c0-b121-45cdb381a229}
+  - {name: 🇨🇳 台湾 03_free3, server: free.2weradf.xyz, port: 36245, type: ss, cipher: chacha20-ietf-poly1305, password: 8a466e65-646b-47c0-b121-45cdb381a229}
+  - {name: 🇯🇵 日本 01_free3, server: free.2weradf.xyz, port: 36111, type: ss, cipher: chacha20-ietf-poly1305, password: 8a466e65-646b-47c0-b121-45cdb381a229}
+  - {name: 🇯🇵 日本 02_free3, server: free.2weradf.xyz, port: 36113, type: ss, cipher: chacha20-ietf-poly1305, password: 8a466e65-646b-47c0-b121-45cdb381a229}
+  - {name: 🇯🇵 日本 03_free3, server: free.2weradf.xyz, port: 36115, type: ss, cipher: chacha20-ietf-poly1305, password: 8a466e65-646b-47c0-b121-45cdb381a229}
+  - {name: 🇸🇬 新加坡 01_free3, server: free.2weradf.xyz, port: 36171, type: ss, cipher: chacha20-ietf-poly1305, password: 8a466e65-646b-47c0-b121-45cdb381a229}
+  - {name: 🇸🇬 新加坡 02_free3, server: free.2weradf.xyz, port: 36173, type: ss, cipher: chacha20-ietf-poly1305, password: 8a466e65-646b-47c0-b121-45cdb381a229}
+  - {name: 🇸🇬 新加坡 03_free3, server: free.2weradf.xyz, port: 36175, type: ss, cipher: chacha20-ietf-poly1305, password: 8a466e65-646b-47c0-b121-45cdb381a229}
+  - {name: 🇰🇷 韩国 01_free3, server: free.2weradf.xyz, port: 36311, type: ss, cipher: chacha20-ietf-poly1305, password: 8a466e65-646b-47c0-b121-45cdb381a229}
+  - {name: 🇰🇷 韩国 02_free3, server: free.2weradf.xyz, port: 36313, type: ss, cipher: chacha20-ietf-poly1305, password: 8a466e65-646b-47c0-b121-45cdb381a229}
+  - {name: 🇵🇭 菲律宾 01_free3, server: free.2weradf.xyz, port: 36341, type: ss, cipher: chacha20-ietf-poly1305, password: 8a466e65-646b-47c0-b121-45cdb381a229}
+  - {name: 🇺🇸 美国 01_free3, server: free.2weradf.xyz, port: 36211, type: ss, cipher: chacha20-ietf-poly1305, password: 8a466e65-646b-47c0-b121-45cdb381a229}
+  - {name: 🇺🇸 美国住宅IP 02_free3, server: free.2weradf.xyz, port: 36213, type: ss, cipher: chacha20-ietf-poly1305, password: 8a466e65-646b-47c0-b121-45cdb381a229}
+  - {name: 🇺🇸 美国 03_free3, server: free.2weradf.xyz, port: 36215, type: ss, cipher: chacha20-ietf-poly1305, password: 8a466e65-646b-47c0-b121-45cdb381a229}
+  - {name: 🇬🇧 英国住宅IP 01_free3, server: free.2weradf.xyz, port: 36271, type: ss, cipher: chacha20-ietf-poly1305, password: 8a466e65-646b-47c0-b121-45cdb381a229}
+  - {name: 🇲🇾 马来西亚 01_free3, server: free.2weradf.xyz, port: 36721, type: ss, cipher: chacha20-ietf-poly1305, password: 8a466e65-646b-47c0-b121-45cdb381a229}
+  - {name: 🇲🇾 马来西亚 02_free3, server: free.2weradf.xyz, port: 36722, type: ss, cipher: chacha20-ietf-poly1305, password: 8a466e65-646b-47c0-b121-45cdb381a229}
+  - {name: 🇪🇸 西班牙 01_free3, server: free.2weradf.xyz, port: 36741, type: ss, cipher: chacha20-ietf-poly1305, password: 8a466e65-646b-47c0-b121-45cdb381a229}
+  - {name: 🇹🇭 泰国 01_free3, server: free.2weradf.xyz, port: 36731, type: ss, cipher: chacha20-ietf-poly1305, password: 8a466e65-646b-47c0-b121-45cdb381a229}
+  - {name: 🇮🇳 印度 01_free3, server: free.2weradf.xyz, port: 36371, type: ss, cipher: chacha20-ietf-poly1305, password: 8a466e65-646b-47c0-b121-45cdb381a229}
+  - {name: 🇦🇺 澳大利亚 01_free3, server: free.2weradf.xyz, port: 36411, type: ss, cipher: chacha20-ietf-poly1305, password: 8a466e65-646b-47c0-b121-45cdb381a229}
+  - {name: 🇨🇦 加拿大 01_free3, server: free.2weradf.xyz, port: 36441, type: ss, cipher: chacha20-ietf-poly1305, password: 8a466e65-646b-47c0-b121-45cdb381a229}
+  - {name: 🇩🇪 德国 01_free3, server: free.2weradf.xyz, port: 36471, type: ss, cipher: chacha20-ietf-poly1305, password: 8a466e65-646b-47c0-b121-45cdb381a229}
+  - {name: 🇷🇺 俄罗斯 01_free3, server: free.2weradf.xyz, port: 36511, type: ss, cipher: chacha20-ietf-poly1305, password: 8a466e65-646b-47c0-b121-45cdb381a229}
+  - {name: 🇹🇷 土耳其 01_free3, server: free.2weradf.xyz, port: 36571, type: ss, cipher: chacha20-ietf-poly1305, password: 8a466e65-646b-47c0-b121-45cdb381a229}
+  - {name: 🇺🇦 乌克兰 01_free3, server: free.2weradf.xyz, port: 36611, type: ss, cipher: chacha20-ietf-poly1305, password: 8a466e65-646b-47c0-b121-45cdb381a229}
+  - {name: 🇻🇳 越南 01_free3, server: free.2weradf.xyz, port: 36641, type: ss, cipher: chacha20-ietf-poly1305, password: 8a466e65-646b-47c0-b121-45cdb381a229}
+  - {name: 🇧🇷 巴西 01_free3, server: free.2weradf.xyz, port: 36671, type: ss, cipher: chacha20-ietf-poly1305, password: 8a466e65-646b-47c0-b121-45cdb381a229}
+  - {name: 🇮🇩 印度尼西亚 01_free3, server: free.2weradf.xyz, port: 36677, type: ss, cipher: chacha20-ietf-poly1305, password: 8a466e65-646b-47c0-b121-45cdb381a229}
+  - {name: 🇬🇧 free：3.64 GB, server: free.2weradf.xyz, port: 36141, type: ss, cipher: chacha20-ietf-poly1305, password: b4cfe104-58b7-431f-a71a-c4ecf911e9a4}
+  - {name: 🇭🇰 香港 01_free, server: free.2weradf.xyz, port: 36141, type: ss, cipher: chacha20-ietf-poly1305, password: b4cfe104-58b7-431f-a71a-c4ecf911e9a4}
+  - {name: 🇭🇰 香港 02_free, server: free.2weradf.xyz, port: 36143, type: ss, cipher: chacha20-ietf-poly1305, password: b4cfe104-58b7-431f-a71a-c4ecf911e9a4}
+  - {name: 🇭🇰 香港住宅IP 03_free, server: free.2weradf.xyz, port: 36145, type: ss, cipher: chacha20-ietf-poly1305, password: b4cfe104-58b7-431f-a71a-c4ecf911e9a4}
+  - {name: 🇨🇳 台湾 01_free, server: free.2weradf.xyz, port: 36241, type: ss, cipher: chacha20-ietf-poly1305, password: b4cfe104-58b7-431f-a71a-c4ecf911e9a4}
+  - {name: 🇨🇳 台湾 02_free, server: free.2weradf.xyz, port: 36243, type: ss, cipher: chacha20-ietf-poly1305, password: b4cfe104-58b7-431f-a71a-c4ecf911e9a4}
+  - {name: 🇨🇳 台湾 03_free, server: free.2weradf.xyz, port: 36245, type: ss, cipher: chacha20-ietf-poly1305, password: b4cfe104-58b7-431f-a71a-c4ecf911e9a4}
+  - {name: 🇯🇵 日本 01_free, server: free.2weradf.xyz, port: 36111, type: ss, cipher: chacha20-ietf-poly1305, password: b4cfe104-58b7-431f-a71a-c4ecf911e9a4}
+  - {name: 🇯🇵 日本 02_free, server: free.2weradf.xyz, port: 36113, type: ss, cipher: chacha20-ietf-poly1305, password: b4cfe104-58b7-431f-a71a-c4ecf911e9a4}
+  - {name: 🇯🇵 日本 03_free, server: free.2weradf.xyz, port: 36115, type: ss, cipher: chacha20-ietf-poly1305, password: b4cfe104-58b7-431f-a71a-c4ecf911e9a4}
+  - {name: 🇸🇬 新加坡 01_free, server: free.2weradf.xyz, port: 36171, type: ss, cipher: chacha20-ietf-poly1305, password: b4cfe104-58b7-431f-a71a-c4ecf911e9a4}
+  - {name: 🇸🇬 新加坡 02_free, server: free.2weradf.xyz, port: 36173, type: ss, cipher: chacha20-ietf-poly1305, password: b4cfe104-58b7-431f-a71a-c4ecf911e9a4}
+  - {name: 🇸🇬 新加坡 03_free, server: free.2weradf.xyz, port: 36175, type: ss, cipher: chacha20-ietf-poly1305, password: b4cfe104-58b7-431f-a71a-c4ecf911e9a4}
+  - {name: 🇰🇷 韩国 01_free, server: free.2weradf.xyz, port: 36311, type: ss, cipher: chacha20-ietf-poly1305, password: b4cfe104-58b7-431f-a71a-c4ecf911e9a4}
+  - {name: 🇰🇷 韩国 02_free, server: free.2weradf.xyz, port: 36313, type: ss, cipher: chacha20-ietf-poly1305, password: b4cfe104-58b7-431f-a71a-c4ecf911e9a4}
+  - {name: 🇵🇭 菲律宾 01_free, server: free.2weradf.xyz, port: 36341, type: ss, cipher: chacha20-ietf-poly1305, password: b4cfe104-58b7-431f-a71a-c4ecf911e9a4}
+  - {name: 🇺🇸 美国 01_free, server: free.2weradf.xyz, port: 36211, type: ss, cipher: chacha20-ietf-poly1305, password: b4cfe104-58b7-431f-a71a-c4ecf911e9a4}
+  - {name: 🇺🇸 美国住宅IP 02_free, server: free.2weradf.xyz, port: 36213, type: ss, cipher: chacha20-ietf-poly1305, password: b4cfe104-58b7-431f-a71a-c4ecf911e9a4}
+  - {name: 🇺🇸 美国 03_free, server: free.2weradf.xyz, port: 36215, type: ss, cipher: chacha20-ietf-poly1305, password: b4cfe104-58b7-431f-a71a-c4ecf911e9a4}
+  - {name: 🇬🇧 英国住宅IP 01_free, server: free.2weradf.xyz, port: 36271, type: ss, cipher: chacha20-ietf-poly1305, password: b4cfe104-58b7-431f-a71a-c4ecf911e9a4}
+  - {name: 🇲🇾 马来西亚 01_free, server: free.2weradf.xyz, port: 36721, type: ss, cipher: chacha20-ietf-poly1305, password: b4cfe104-58b7-431f-a71a-c4ecf911e9a4}
+  - {name: 🇲🇾 马来西亚 02_free, server: free.2weradf.xyz, port: 36722, type: ss, cipher: chacha20-ietf-poly1305, password: b4cfe104-58b7-431f-a71a-c4ecf911e9a4}
+  - {name: 🇪🇸 西班牙 01_free, server: free.2weradf.xyz, port: 36741, type: ss, cipher: chacha20-ietf-poly1305, password: b4cfe104-58b7-431f-a71a-c4ecf911e9a4}
+  - {name: 🇹🇭 泰国 01_free, server: free.2weradf.xyz, port: 36731, type: ss, cipher: chacha20-ietf-poly1305, password: b4cfe104-58b7-431f-a71a-c4ecf911e9a4}
+  - {name: 🇮🇳 印度 01_free, server: free.2weradf.xyz, port: 36371, type: ss, cipher: chacha20-ietf-poly1305, password: b4cfe104-58b7-431f-a71a-c4ecf911e9a4}
+  - {name: 🇦🇺 澳大利亚 01_free, server: free.2weradf.xyz, port: 36411, type: ss, cipher: chacha20-ietf-poly1305, password: b4cfe104-58b7-431f-a71a-c4ecf911e9a4}
+  - {name: 🇨🇦 加拿大 01_free, server: free.2weradf.xyz, port: 36441, type: ss, cipher: chacha20-ietf-poly1305, password: b4cfe104-58b7-431f-a71a-c4ecf911e9a4}
+  - {name: 🇩🇪 德国 01_free, server: free.2weradf.xyz, port: 36471, type: ss, cipher: chacha20-ietf-poly1305, password: b4cfe104-58b7-431f-a71a-c4ecf911e9a4}
+  - {name: 🇷🇺 俄罗斯 01_free, server: free.2weradf.xyz, port: 36511, type: ss, cipher: chacha20-ietf-poly1305, password: b4cfe104-58b7-431f-a71a-c4ecf911e9a4}
+  - {name: 🇹🇷 土耳其 01_free, server: free.2weradf.xyz, port: 36571, type: ss, cipher: chacha20-ietf-poly1305, password: b4cfe104-58b7-431f-a71a-c4ecf911e9a4}
+  - {name: 🇺🇦 乌克兰 01_free, server: free.2weradf.xyz, port: 36611, type: ss, cipher: chacha20-ietf-poly1305, password: b4cfe104-58b7-431f-a71a-c4ecf911e9a4}
+  - {name: 🇻🇳 越南 01_free, server: free.2weradf.xyz, port: 36641, type: ss, cipher: chacha20-ietf-poly1305, password: b4cfe104-58b7-431f-a71a-c4ecf911e9a4}
+  - {name: 🇧🇷 巴西 01_free, server: free.2weradf.xyz, port: 36671, type: ss, cipher: chacha20-ietf-poly1305, password: b4cfe104-58b7-431f-a71a-c4ecf911e9a4}
+  - {name: 🇮🇩 印度尼西亚 01_free, server: free.2weradf.xyz, port: 36677, type: ss, cipher: chacha20-ietf-poly1305, password: b4cfe104-58b7-431f-a71a-c4ecf911e9a4}
+  - {name: 🇬🇧 free2：5 GB, server: free.6vczxw.xyz, port: 41141, type: ss, cipher: chacha20-ietf-poly1305, password: 83603d63-c62f-425e-96f1-78ddb482e654}
+  - {name: 🇭🇰 香港01_free2, server: free.6vczxw.xyz, port: 41141, type: ss, cipher: chacha20-ietf-poly1305, password: 83603d63-c62f-425e-96f1-78ddb482e654}
+  - {name: 🇭🇰 香港02_free2, server: free.6vczxw.xyz, port: 41143, type: ss, cipher: chacha20-ietf-poly1305, password: 83603d63-c62f-425e-96f1-78ddb482e654}
+  - {name: 🇭🇰 香港03_free2, server: free.6vczxw.xyz, port: 41145, type: ss, cipher: chacha20-ietf-poly1305, password: 83603d63-c62f-425e-96f1-78ddb482e654}
+  - {name: 🇨🇳 台湾01_free2, server: free.6vczxw.xyz, port: 41241, type: ss, cipher: chacha20-ietf-poly1305, password: 83603d63-c62f-425e-96f1-78ddb482e654}
+  - {name: 🇨🇳 台湾02_free2, server: free.6vczxw.xyz, port: 41243, type: ss, cipher: chacha20-ietf-poly1305, password: 83603d63-c62f-425e-96f1-78ddb482e654}
+  - {name: 🇨🇳 台湾03_free2, server: free.6vczxw.xyz, port: 41245, type: ss, cipher: chacha20-ietf-poly1305, password: 83603d63-c62f-425e-96f1-78ddb482e654}
+  - {name: 🇯🇵 日本01_free2, server: free.6vczxw.xyz, port: 41111, type: ss, cipher: chacha20-ietf-poly1305, password: 83603d63-c62f-425e-96f1-78ddb482e654}
+  - {name: 🇯🇵 日本02_free2, server: free.6vczxw.xyz, port: 41113, type: ss, cipher: chacha20-ietf-poly1305, password: 83603d63-c62f-425e-96f1-78ddb482e654}
+  - {name: 🇯🇵 日本03_free2, server: free.6vczxw.xyz, port: 41115, type: ss, cipher: chacha20-ietf-poly1305, password: 83603d63-c62f-425e-96f1-78ddb482e654}
+  - {name: 🇸🇬 新加坡01_free2, server: free.6vczxw.xyz, port: 41171, type: ss, cipher: chacha20-ietf-poly1305, password: 83603d63-c62f-425e-96f1-78ddb482e654}
+  - {name: 🇸🇬 新加坡02_free2, server: free.6vczxw.xyz, port: 41173, type: ss, cipher: chacha20-ietf-poly1305, password: 83603d63-c62f-425e-96f1-78ddb482e654}
+  - {name: 🇸🇬 新加坡03_free2, server: free.6vczxw.xyz, port: 41175, type: ss, cipher: chacha20-ietf-poly1305, password: 83603d63-c62f-425e-96f1-78ddb482e654}
+  - {name: 🇰🇷 韩国01_free2, server: free.6vczxw.xyz, port: 41311, type: ss, cipher: chacha20-ietf-poly1305, password: 83603d63-c62f-425e-96f1-78ddb482e654}
+  - {name: 🇰🇷 韩国02_free2, server: free.6vczxw.xyz, port: 41313, type: ss, cipher: chacha20-ietf-poly1305, password: 83603d63-c62f-425e-96f1-78ddb482e654}
+  - {name: 🇵🇭 菲律宾01_free2, server: free.6vczxw.xyz, port: 41341, type: ss, cipher: chacha20-ietf-poly1305, password: 83603d63-c62f-425e-96f1-78ddb482e654}
+  - {name: 🇺🇸 美国01_free2, server: free.6vczxw.xyz, port: 41211, type: ss, cipher: chacha20-ietf-poly1305, password: 83603d63-c62f-425e-96f1-78ddb482e654}
+  - {name: 🇺🇸 美国02_free2, server: free.6vczxw.xyz, port: 41213, type: ss, cipher: chacha20-ietf-poly1305, password: 83603d63-c62f-425e-96f1-78ddb482e654}
+  - {name: 🇺🇸 美国03_free2, server: free.6vczxw.xyz, port: 41215, type: ss, cipher: chacha20-ietf-poly1305, password: 83603d63-c62f-425e-96f1-78ddb482e654}
+  - {name: 🇬🇧 英国01_free2, server: free.6vczxw.xyz, port: 41271, type: ss, cipher: chacha20-ietf-poly1305, password: 83603d63-c62f-425e-96f1-78ddb482e654}
+  - {name: 🇪🇸 西班牙01_free2, server: free.6vczxw.xyz, port: 41741, type: ss, cipher: chacha20-ietf-poly1305, password: 83603d63-c62f-425e-96f1-78ddb482e654}
+  - {name: 🇲🇾 马来西亚01_free2, server: free.6vczxw.xyz, port: 41721, type: ss, cipher: chacha20-ietf-poly1305, password: 83603d63-c62f-425e-96f1-78ddb482e654}
+  - {name: 🇲🇾 马来西亚02_free2, server: free.6vczxw.xyz, port: 41722, type: ss, cipher: chacha20-ietf-poly1305, password: 83603d63-c62f-425e-96f1-78ddb482e654}
+  - {name: 🇹🇭 泰国01_free2, server: free.6vczxw.xyz, port: 41731, type: ss, cipher: chacha20-ietf-poly1305, password: 83603d63-c62f-425e-96f1-78ddb482e654}
+  - {name: 🇮🇳 印度01_free2, server: free.6vczxw.xyz, port: 41371, type: ss, cipher: chacha20-ietf-poly1305, password: 83603d63-c62f-425e-96f1-78ddb482e654}
+  - {name: 🇦🇺 澳大利亚01_free2, server: free.6vczxw.xyz, port: 41411, type: ss, cipher: chacha20-ietf-poly1305, password: 83603d63-c62f-425e-96f1-78ddb482e654}
+  - {name: 🇨🇦 加拿大01_free2, server: free.6vczxw.xyz, port: 41441, type: ss, cipher: chacha20-ietf-poly1305, password: 83603d63-c62f-425e-96f1-78ddb482e654}
+  - {name: 🇩🇪 德国01_free2, server: free.6vczxw.xyz, port: 41471, type: ss, cipher: chacha20-ietf-poly1305, password: 83603d63-c62f-425e-96f1-78ddb482e654}
+  - {name: 🇷🇺 俄罗斯01_free2, server: free.6vczxw.xyz, port: 41511, type: ss, cipher: chacha20-ietf-poly1305, password: 83603d63-c62f-425e-96f1-78ddb482e654}
+  - {name: 🇹🇷 土耳其01_free2, server: free.6vczxw.xyz, port: 41571, type: ss, cipher: chacha20-ietf-poly1305, password: 83603d63-c62f-425e-96f1-78ddb482e654}
+  - {name: 🇺🇦 乌克兰01_free2, server: free.6vczxw.xyz, port: 41611, type: ss, cipher: chacha20-ietf-poly1305, password: 83603d63-c62f-425e-96f1-78ddb482e654}
+  - {name: 🇻🇳 越南01_free2, server: free.6vczxw.xyz, port: 41641, type: ss, cipher: chacha20-ietf-poly1305, password: 83603d63-c62f-425e-96f1-78ddb482e654}
+  - {name: 🇬🇧 free3：4.76 GB, server: free.2apzhfa.xyz, port: 31141, type: ss, cipher: chacha20-ietf-poly1305, password: 9017653f-a399-4c13-98ab-66ed208e0deb}
+  - {name: 🇭🇰 香港 01_free3, server: free.2apzhfa.xyz, port: 31141, type: ss, cipher: chacha20-ietf-poly1305, password: 9017653f-a399-4c13-98ab-66ed208e0deb}
+  - {name: 🇭🇰 香港 02_free3, server: free.2apzhfa.xyz, port: 31143, type: ss, cipher: chacha20-ietf-poly1305, password: 9017653f-a399-4c13-98ab-66ed208e0deb}
+  - {name: 🇭🇰 香港家宽 03_free3, server: free.2apzhfa.xyz, port: 31145, type: ss, cipher: chacha20-ietf-poly1305, password: 9017653f-a399-4c13-98ab-66ed208e0deb}
+  - {name: 🇨🇳 台湾 01_free3, server: free.2apzhfa.xyz, port: 31241, type: ss, cipher: chacha20-ietf-poly1305, password: 9017653f-a399-4c13-98ab-66ed208e0deb}
+  - {name: 🇨🇳 台湾 02_free3, server: free.2apzhfa.xyz, port: 31243, type: ss, cipher: chacha20-ietf-poly1305, password: 9017653f-a399-4c13-98ab-66ed208e0deb}
+  - {name: 🇨🇳 台湾 03_free3, server: free.2apzhfa.xyz, port: 31245, type: ss, cipher: chacha20-ietf-poly1305, password: 9017653f-a399-4c13-98ab-66ed208e0deb}
+  - {name: 🇯🇵 日本 01_free3, server: free.2apzhfa.xyz, port: 31111, type: ss, cipher: chacha20-ietf-poly1305, password: 9017653f-a399-4c13-98ab-66ed208e0deb}
+  - {name: 🇯🇵 日本 02_free3, server: free.2apzhfa.xyz, port: 31113, type: ss, cipher: chacha20-ietf-poly1305, password: 9017653f-a399-4c13-98ab-66ed208e0deb}
+  - {name: 🇯🇵 日本 03_free3, server: free.2apzhfa.xyz, port: 31115, type: ss, cipher: chacha20-ietf-poly1305, password: 9017653f-a399-4c13-98ab-66ed208e0deb}
+  - {name: 🇸🇬 新加坡 01_free3, server: free.2apzhfa.xyz, port: 31171, type: ss, cipher: chacha20-ietf-poly1305, password: 9017653f-a399-4c13-98ab-66ed208e0deb}
+  - {name: 🇸🇬 新加坡 02_free3, server: free.2apzhfa.xyz, port: 31173, type: ss, cipher: chacha20-ietf-poly1305, password: 9017653f-a399-4c13-98ab-66ed208e0deb}
+  - {name: 🇸🇬 新加坡 03_free3, server: free.2apzhfa.xyz, port: 31175, type: ss, cipher: chacha20-ietf-poly1305, password: 9017653f-a399-4c13-98ab-66ed208e0deb}
+  - {name: 🇰🇷 韩国 01_free3, server: free.2apzhfa.xyz, port: 31311, type: ss, cipher: chacha20-ietf-poly1305, password: 9017653f-a399-4c13-98ab-66ed208e0deb}
+  - {name: 🇰🇷 韩国 02_free3, server: free.2apzhfa.xyz, port: 31313, type: ss, cipher: chacha20-ietf-poly1305, password: 9017653f-a399-4c13-98ab-66ed208e0deb}
+  - {name: 🇵🇭 菲律宾 01_free3, server: free.2apzhfa.xyz, port: 31341, type: ss, cipher: chacha20-ietf-poly1305, password: 9017653f-a399-4c13-98ab-66ed208e0deb}
+  - {name: 🇺🇸 美国 01_free3, server: free.2apzhfa.xyz, port: 31211, type: ss, cipher: chacha20-ietf-poly1305, password: 9017653f-a399-4c13-98ab-66ed208e0deb}
+  - {name: 🇺🇸 美国家宽 02_free3, server: free.2apzhfa.xyz, port: 31213, type: ss, cipher: chacha20-ietf-poly1305, password: 9017653f-a399-4c13-98ab-66ed208e0deb}
+  - {name: 🇺🇸 美国 03_free3, server: free.2apzhfa.xyz, port: 31215, type: ss, cipher: chacha20-ietf-poly1305, password: 9017653f-a399-4c13-98ab-66ed208e0deb}
+  - {name: 🇬🇧 英国家宽 01_free3, server: free.2apzhfa.xyz, port: 31271, type: ss, cipher: chacha20-ietf-poly1305, password: 9017653f-a399-4c13-98ab-66ed208e0deb}
+  - {name: 🇪🇸 西班牙01_free3, server: free.2apzhfa.xyz, port: 31741, type: ss, cipher: chacha20-ietf-poly1305, password: 9017653f-a399-4c13-98ab-66ed208e0deb}
+  - {name: 🇲🇾 马来西亚01_free3, server: free.2apzhfa.xyz, port: 31721, type: ss, cipher: chacha20-ietf-poly1305, password: 9017653f-a399-4c13-98ab-66ed208e0deb}
+  - {name: 🇲🇾 马来西亚02_free3, server: free.2apzhfa.xyz, port: 31722, type: ss, cipher: chacha20-ietf-poly1305, password: 9017653f-a399-4c13-98ab-66ed208e0deb}
+  - {name: 🇹🇭 泰国01 _free3, server: free.2apzhfa.xyz, port: 31741, type: ss, cipher: chacha20-ietf-poly1305, password: 9017653f-a399-4c13-98ab-66ed208e0deb}
+  - {name: 🇮🇳 印度 01_free3, server: free.2apzhfa.xyz, port: 31371, type: ss, cipher: chacha20-ietf-poly1305, password: 9017653f-a399-4c13-98ab-66ed208e0deb}
+  - {name: 🇦🇺 澳大利亚 01_free3, server: free.2apzhfa.xyz, port: 31411, type: ss, cipher: chacha20-ietf-poly1305, password: 9017653f-a399-4c13-98ab-66ed208e0deb}
+  - {name: 🇨🇦 加拿大 01_free3, server: free.2apzhfa.xyz, port: 31441, type: ss, cipher: chacha20-ietf-poly1305, password: 9017653f-a399-4c13-98ab-66ed208e0deb}
+  - {name: 🇩🇪 德国 01_free3, server: free.2apzhfa.xyz, port: 31471, type: ss, cipher: chacha20-ietf-poly1305, password: 9017653f-a399-4c13-98ab-66ed208e0deb}
+  - {name: 🇷🇺 俄罗斯 01_free3, server: free.2apzhfa.xyz, port: 31511, type: ss, cipher: chacha20-ietf-poly1305, password: 9017653f-a399-4c13-98ab-66ed208e0deb}
+  - {name: 🇹🇷 土耳其 01_free3, server: free.2apzhfa.xyz, port: 31571, type: ss, cipher: chacha20-ietf-poly1305, password: 9017653f-a399-4c13-98ab-66ed208e0deb}
+  - {name: 🇺🇦 乌克兰 01_free3, server: free.2apzhfa.xyz, port: 31611, type: ss, cipher: chacha20-ietf-poly1305, password: 9017653f-a399-4c13-98ab-66ed208e0deb}
+  - {name: 🇻🇳 越南 01_free3, server: free.2apzhfa.xyz, port: 31641, type: ss, cipher: chacha20-ietf-poly1305, password: 9017653f-a399-4c13-98ab-66ed208e0deb}
+  - {name: 🇧🇷 巴西 01_free3, server: free.2apzhfa.xyz, port: 31671, type: ss, cipher: chacha20-ietf-poly1305, password: 9017653f-a399-4c13-98ab-66ed208e0deb}
+  - {name: 🇮🇩 印度尼西亚 01_free3, server: free.2apzhfa.xyz, port: 31677, type: ss, cipher: chacha20-ietf-poly1305, password: 9017653f-a399-4c13-98ab-66ed208e0deb}
+  - {name: 🇬🇧 free5：5 GB, server: free.6vczxw.xyz, port: 41141, type: ss, cipher: chacha20-ietf-poly1305, password: 7bfa77b5-35b9-4ebe-a400-63c90f7dfabf}
+  - {name: 🇭🇰 香港01_free5, server: free.6vczxw.xyz, port: 41141, type: ss, cipher: chacha20-ietf-poly1305, password: 7bfa77b5-35b9-4ebe-a400-63c90f7dfabf}
+  - {name: 🇭🇰 香港02_free5, server: free.6vczxw.xyz, port: 41143, type: ss, cipher: chacha20-ietf-poly1305, password: 7bfa77b5-35b9-4ebe-a400-63c90f7dfabf}
+  - {name: 🇭🇰 香港03_free5, server: free.6vczxw.xyz, port: 41145, type: ss, cipher: chacha20-ietf-poly1305, password: 7bfa77b5-35b9-4ebe-a400-63c90f7dfabf}
+  - {name: 🇨🇳 台湾01_free5, server: free.6vczxw.xyz, port: 41241, type: ss, cipher: chacha20-ietf-poly1305, password: 7bfa77b5-35b9-4ebe-a400-63c90f7dfabf}
+  - {name: 🇨🇳 台湾02_free5, server: free.6vczxw.xyz, port: 41243, type: ss, cipher: chacha20-ietf-poly1305, password: 7bfa77b5-35b9-4ebe-a400-63c90f7dfabf}
+  - {name: 🇨🇳 台湾03_free5, server: free.6vczxw.xyz, port: 41245, type: ss, cipher: chacha20-ietf-poly1305, password: 7bfa77b5-35b9-4ebe-a400-63c90f7dfabf}
+  - {name: 🇯🇵 日本01_free5, server: free.6vczxw.xyz, port: 41111, type: ss, cipher: chacha20-ietf-poly1305, password: 7bfa77b5-35b9-4ebe-a400-63c90f7dfabf}
+  - {name: 🇯🇵 日本02_free5, server: free.6vczxw.xyz, port: 41113, type: ss, cipher: chacha20-ietf-poly1305, password: 7bfa77b5-35b9-4ebe-a400-63c90f7dfabf}
+  - {name: 🇯🇵 日本03_free5, server: free.6vczxw.xyz, port: 41115, type: ss, cipher: chacha20-ietf-poly1305, password: 7bfa77b5-35b9-4ebe-a400-63c90f7dfabf}
+  - {name: 🇸🇬 新加坡01_free5, server: free.6vczxw.xyz, port: 41171, type: ss, cipher: chacha20-ietf-poly1305, password: 7bfa77b5-35b9-4ebe-a400-63c90f7dfabf}
+  - {name: 🇸🇬 新加坡02_free5, server: free.6vczxw.xyz, port: 41173, type: ss, cipher: chacha20-ietf-poly1305, password: 7bfa77b5-35b9-4ebe-a400-63c90f7dfabf}
+  - {name: 🇸🇬 新加坡03_free5, server: free.6vczxw.xyz, port: 41175, type: ss, cipher: chacha20-ietf-poly1305, password: 7bfa77b5-35b9-4ebe-a400-63c90f7dfabf}
+  - {name: 🇰🇷 韩国01_free5, server: free.6vczxw.xyz, port: 41311, type: ss, cipher: chacha20-ietf-poly1305, password: 7bfa77b5-35b9-4ebe-a400-63c90f7dfabf}
+  - {name: 🇰🇷 韩国02_free5, server: free.6vczxw.xyz, port: 41313, type: ss, cipher: chacha20-ietf-poly1305, password: 7bfa77b5-35b9-4ebe-a400-63c90f7dfabf}
+  - {name: 🇵🇭 菲律宾01_free5, server: free.6vczxw.xyz, port: 41341, type: ss, cipher: chacha20-ietf-poly1305, password: 7bfa77b5-35b9-4ebe-a400-63c90f7dfabf}
+  - {name: 🇺🇸 美国01_free5, server: free.6vczxw.xyz, port: 41211, type: ss, cipher: chacha20-ietf-poly1305, password: 7bfa77b5-35b9-4ebe-a400-63c90f7dfabf}
+  - {name: 🇺🇸 美国02_free5, server: free.6vczxw.xyz, port: 41213, type: ss, cipher: chacha20-ietf-poly1305, password: 7bfa77b5-35b9-4ebe-a400-63c90f7dfabf}
+  - {name: 🇺🇸 美国03_free5, server: free.6vczxw.xyz, port: 41215, type: ss, cipher: chacha20-ietf-poly1305, password: 7bfa77b5-35b9-4ebe-a400-63c90f7dfabf}
+  - {name: 🇬🇧 英国01_free5, server: free.6vczxw.xyz, port: 41271, type: ss, cipher: chacha20-ietf-poly1305, password: 7bfa77b5-35b9-4ebe-a400-63c90f7dfabf}
+  - {name: 🇪🇸 西班牙01_free5, server: free.6vczxw.xyz, port: 41741, type: ss, cipher: chacha20-ietf-poly1305, password: 7bfa77b5-35b9-4ebe-a400-63c90f7dfabf}
+  - {name: 🇲🇾 马来西亚01_free5, server: free.6vczxw.xyz, port: 41721, type: ss, cipher: chacha20-ietf-poly1305, password: 7bfa77b5-35b9-4ebe-a400-63c90f7dfabf}
+  - {name: 🇲🇾 马来西亚02_free5, server: free.6vczxw.xyz, port: 41722, type: ss, cipher: chacha20-ietf-poly1305, password: 7bfa77b5-35b9-4ebe-a400-63c90f7dfabf}
+  - {name: 🇹🇭 泰国01_free5, server: free.6vczxw.xyz, port: 41731, type: ss, cipher: chacha20-ietf-poly1305, password: 7bfa77b5-35b9-4ebe-a400-63c90f7dfabf}
+  - {name: 🇮🇳 印度01_free5, server: free.6vczxw.xyz, port: 41371, type: ss, cipher: chacha20-ietf-poly1305, password: 7bfa77b5-35b9-4ebe-a400-63c90f7dfabf}
+  - {name: 🇦🇺 澳大利亚01_free5, server: free.6vczxw.xyz, port: 41411, type: ss, cipher: chacha20-ietf-poly1305, password: 7bfa77b5-35b9-4ebe-a400-63c90f7dfabf}
+  - {name: 🇨🇦 加拿大01_free5, server: free.6vczxw.xyz, port: 41441, type: ss, cipher: chacha20-ietf-poly1305, password: 7bfa77b5-35b9-4ebe-a400-63c90f7dfabf}
+  - {name: 🇩🇪 德国01_free5, server: free.6vczxw.xyz, port: 41471, type: ss, cipher: chacha20-ietf-poly1305, password: 7bfa77b5-35b9-4ebe-a400-63c90f7dfabf}
+  - {name: 🇷🇺 俄罗斯01_free5, server: free.6vczxw.xyz, port: 41511, type: ss, cipher: chacha20-ietf-poly1305, password: 7bfa77b5-35b9-4ebe-a400-63c90f7dfabf}
+  - {name: 🇹🇷 土耳其01_free5, server: free.6vczxw.xyz, port: 41571, type: ss, cipher: chacha20-ietf-poly1305, password: 7bfa77b5-35b9-4ebe-a400-63c90f7dfabf}
+  - {name: 🇺🇦 乌克兰01_free5, server: free.6vczxw.xyz, port: 41611, type: ss, cipher: chacha20-ietf-poly1305, password: 7bfa77b5-35b9-4ebe-a400-63c90f7dfabf}
+  - {name: 🇻🇳 越南01_free5, server: free.6vczxw.xyz, port: 41641, type: ss, cipher: chacha20-ietf-poly1305, password: 7bfa77b5-35b9-4ebe-a400-63c90f7dfabf}
+  - {name: 🇬🇧 free：4.54 GB, server: free.2apzhfa.xyz, port: 31141, type: ss, cipher: chacha20-ietf-poly1305, password: 26c91aae-1e7a-4e13-bfa3-87dd5008792f}
+  - {name: 🇭🇰 香港 01_free, server: free.2apzhfa.xyz, port: 31141, type: ss, cipher: chacha20-ietf-poly1305, password: 26c91aae-1e7a-4e13-bfa3-87dd5008792f}
+  - {name: 🇭🇰 香港 02_free, server: free.2apzhfa.xyz, port: 31143, type: ss, cipher: chacha20-ietf-poly1305, password: 26c91aae-1e7a-4e13-bfa3-87dd5008792f}
+  - {name: 🇭🇰 香港家宽 03_free, server: free.2apzhfa.xyz, port: 31145, type: ss, cipher: chacha20-ietf-poly1305, password: 26c91aae-1e7a-4e13-bfa3-87dd5008792f}
+  - {name: 🇨🇳 台湾 01_free, server: free.2apzhfa.xyz, port: 31241, type: ss, cipher: chacha20-ietf-poly1305, password: 26c91aae-1e7a-4e13-bfa3-87dd5008792f}
+  - {name: 🇨🇳 台湾 02_free, server: free.2apzhfa.xyz, port: 31243, type: ss, cipher: chacha20-ietf-poly1305, password: 26c91aae-1e7a-4e13-bfa3-87dd5008792f}
+  - {name: 🇨🇳 台湾 03_free, server: free.2apzhfa.xyz, port: 31245, type: ss, cipher: chacha20-ietf-poly1305, password: 26c91aae-1e7a-4e13-bfa3-87dd5008792f}
+  - {name: 🇯🇵 日本 01_free, server: free.2apzhfa.xyz, port: 31111, type: ss, cipher: chacha20-ietf-poly1305, password: 26c91aae-1e7a-4e13-bfa3-87dd5008792f}
+  - {name: 🇯🇵 日本 02_free, server: free.2apzhfa.xyz, port: 31113, type: ss, cipher: chacha20-ietf-poly1305, password: 26c91aae-1e7a-4e13-bfa3-87dd5008792f}
+  - {name: 🇯🇵 日本 03_free, server: free.2apzhfa.xyz, port: 31115, type: ss, cipher: chacha20-ietf-poly1305, password: 26c91aae-1e7a-4e13-bfa3-87dd5008792f}
+  - {name: 🇸🇬 新加坡 01_free, server: free.2apzhfa.xyz, port: 31171, type: ss, cipher: chacha20-ietf-poly1305, password: 26c91aae-1e7a-4e13-bfa3-87dd5008792f}
+  - {name: 🇸🇬 新加坡 02_free, server: free.2apzhfa.xyz, port: 31173, type: ss, cipher: chacha20-ietf-poly1305, password: 26c91aae-1e7a-4e13-bfa3-87dd5008792f}
+  - {name: 🇸🇬 新加坡 03_free, server: free.2apzhfa.xyz, port: 31175, type: ss, cipher: chacha20-ietf-poly1305, password: 26c91aae-1e7a-4e13-bfa3-87dd5008792f}
+  - {name: 🇰🇷 韩国 01_free, server: free.2apzhfa.xyz, port: 31311, type: ss, cipher: chacha20-ietf-poly1305, password: 26c91aae-1e7a-4e13-bfa3-87dd5008792f}
+  - {name: 🇰🇷 韩国 02_free, server: free.2apzhfa.xyz, port: 31313, type: ss, cipher: chacha20-ietf-poly1305, password: 26c91aae-1e7a-4e13-bfa3-87dd5008792f}
+  - {name: 🇵🇭 菲律宾 01_free, server: free.2apzhfa.xyz, port: 31341, type: ss, cipher: chacha20-ietf-poly1305, password: 26c91aae-1e7a-4e13-bfa3-87dd5008792f}
+  - {name: 🇺🇸 美国 01_free, server: free.2apzhfa.xyz, port: 31211, type: ss, cipher: chacha20-ietf-poly1305, password: 26c91aae-1e7a-4e13-bfa3-87dd5008792f}
+  - {name: 🇺🇸 美国家宽 02_free, server: free.2apzhfa.xyz, port: 31213, type: ss, cipher: chacha20-ietf-poly1305, password: 26c91aae-1e7a-4e13-bfa3-87dd5008792f}
+  - {name: 🇺🇸 美国 03_free, server: free.2apzhfa.xyz, port: 31215, type: ss, cipher: chacha20-ietf-poly1305, password: 26c91aae-1e7a-4e13-bfa3-87dd5008792f}
+  - {name: 🇬🇧 英国家宽 01_free, server: free.2apzhfa.xyz, port: 31271, type: ss, cipher: chacha20-ietf-poly1305, password: 26c91aae-1e7a-4e13-bfa3-87dd5008792f}
+  - {name: 🇪🇸 西班牙01_free, server: free.2apzhfa.xyz, port: 31741, type: ss, cipher: chacha20-ietf-poly1305, password: 26c91aae-1e7a-4e13-bfa3-87dd5008792f}
+  - {name: 🇲🇾 马来西亚01_free, server: free.2apzhfa.xyz, port: 31721, type: ss, cipher: chacha20-ietf-poly1305, password: 26c91aae-1e7a-4e13-bfa3-87dd5008792f}
+  - {name: 🇲🇾 马来西亚02_free, server: free.2apzhfa.xyz, port: 31722, type: ss, cipher: chacha20-ietf-poly1305, password: 26c91aae-1e7a-4e13-bfa3-87dd5008792f}
+  - {name: 🇹🇭 泰国01 _free, server: free.2apzhfa.xyz, port: 31741, type: ss, cipher: chacha20-ietf-poly1305, password: 26c91aae-1e7a-4e13-bfa3-87dd5008792f}
+  - {name: 🇮🇳 印度 01_free, server: free.2apzhfa.xyz, port: 31371, type: ss, cipher: chacha20-ietf-poly1305, password: 26c91aae-1e7a-4e13-bfa3-87dd5008792f}
+  - {name: 🇦🇺 澳大利亚 01_free, server: free.2apzhfa.xyz, port: 31411, type: ss, cipher: chacha20-ietf-poly1305, password: 26c91aae-1e7a-4e13-bfa3-87dd5008792f}
+  - {name: 🇨🇦 加拿大 01_free, server: free.2apzhfa.xyz, port: 31441, type: ss, cipher: chacha20-ietf-poly1305, password: 26c91aae-1e7a-4e13-bfa3-87dd5008792f}
+  - {name: 🇩🇪 德国 01_free, server: free.2apzhfa.xyz, port: 31471, type: ss, cipher: chacha20-ietf-poly1305, password: 26c91aae-1e7a-4e13-bfa3-87dd5008792f}
+  - {name: 🇷🇺 俄罗斯 01_free, server: free.2apzhfa.xyz, port: 31511, type: ss, cipher: chacha20-ietf-poly1305, password: 26c91aae-1e7a-4e13-bfa3-87dd5008792f}
+  - {name: 🇹🇷 土耳其 01_free, server: free.2apzhfa.xyz, port: 31571, type: ss, cipher: chacha20-ietf-poly1305, password: 26c91aae-1e7a-4e13-bfa3-87dd5008792f}
+  - {name: 🇺🇦 乌克兰 01_free, server: free.2apzhfa.xyz, port: 31611, type: ss, cipher: chacha20-ietf-poly1305, password: 26c91aae-1e7a-4e13-bfa3-87dd5008792f}
+  - {name: 🇻🇳 越南 01_free, server: free.2apzhfa.xyz, port: 31641, type: ss, cipher: chacha20-ietf-poly1305, password: 26c91aae-1e7a-4e13-bfa3-87dd5008792f}
+  - {name: 🇧🇷 巴西 01_free, server: free.2apzhfa.xyz, port: 31671, type: ss, cipher: chacha20-ietf-poly1305, password: 26c91aae-1e7a-4e13-bfa3-87dd5008792f}
+  - {name: 🇮🇩 印度尼西亚 01_free, server: free.2apzhfa.xyz, port: 31677, type: ss, cipher: chacha20-ietf-poly1305, password: 26c91aae-1e7a-4e13-bfa3-87dd5008792f}
   - {name: LOCAL, server: 192.168.0.110, port: 1081, type: socks5, skip-cert-verify: true}
   - {name: LOCAL_1, server: 192.168.0.110, port: 1081, type: socks5, skip-cert-verify: true}
   - {name: LOCAL_2, server: 192.168.0.110, port: 1081, type: socks5, username: Og==, skip-cert-verify: true}
