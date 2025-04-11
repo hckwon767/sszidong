@@ -40,8 +40,7 @@ jobs:
         run: |
 
           pip install requests pyaes  # 安装requests pyaes
-#     - name: Run ss
-#       run: python ${{ github.workspace }}/ss.py
+
       - name: Run sub
         run: python ${{ github.workspace }}/sub.py
 
@@ -50,7 +49,6 @@ jobs:
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Action"
           if [ -n "$(git status --porcelain)" ]; then
-#           git add *.txt
             git add *.yaml
             git commit -m "Automatic update"
             git push
