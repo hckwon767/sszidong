@@ -31,7 +31,7 @@ jobs:
       run: sudo timedatectl set-timezone 'Asia/Shanghai'
     - name: 安装依赖
       run: |
-        pip install -r ./requirements2.txt
+        pip install -r ./utils/requirements2.txt
     - name: 执行任务
       env:
         key: ${{secrets.key}}
@@ -41,7 +41,7 @@ jobs:
         bot_token: ${{secrets.bot_token}}
         chat_id: ${{secrets.chat_id}}
       run: |
-        python ./ssr.py
+        python ./utils/ssr.py
     - name: Commit
       run: |
         git config --global user.name "GitHub Actions"
