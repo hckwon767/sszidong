@@ -43,10 +43,10 @@ class AESCipher:
             return "Incorrect decryption"
 
 
-k = requests
-host = pycryptodome
-host_1 = beautifulsoup4
-host_2 = pyaes
+k = os.environ["key"]
+host = os.environ["host"]
+host_1 = os.environ["host_1"]
+host_2 = os.environ["host_2"]
 
 AESecb = AESCipher(k)
 Id = str(uuid.uuid4()).replace("-", "")
