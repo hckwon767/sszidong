@@ -137,7 +137,8 @@ if __name__ == "__main__":
                 nodeinfo.encode()
             ).decode().rstrip("=")
             SSR += ssr + "\n"
-        os.makedirs("./links", exist_ok=True) # 디렉토리 생성 (이미 존재해도 에러 안남)
+            if i == node_list[25]:
+                break
         with open("./links/ssr", "w") as f:
             f.write(base64.b64encode(SSR.encode()).decode())
     except Exception as E:
