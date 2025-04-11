@@ -31,19 +31,19 @@ jobs:
         with:
           python-version: 3.8  # 指定Python版本为3.8
 
-      - name: Install setuptools
-        run: |
-          pip install --upgrade pip  # 升级pip
-          pip install setuptools    # 安装setuptools
-
-      - name: Install dependencies
-        run: |
-
-          pip install requests pyaes  # 安装requests pyaes
-
-      - name: Run sub
-        run: python ${{ github.workspace }}/sub.py
-
+#      - name: Install setuptools
+#        run: |
+#          pip install --upgrade pip  # 升级pip
+#          pip install setuptools    # 安装setuptools
+#
+#      - name: Install dependencies
+#        run: |
+#
+#          pip install requests pyaes  # 安装requests pyaes
+#
+#      - name: Run sub
+#        run: python ${{ github.workspace }}/sub.py
+#
       - name: Commit results
         run: |
           git config --local user.email "actions@github.com"
