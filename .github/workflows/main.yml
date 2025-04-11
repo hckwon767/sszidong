@@ -40,11 +40,8 @@ jobs:
         run: |
 
           pip install requests pyaes   # 安装requests pyaes 
-
-
 #      - name: Run ss
 #        run: python ${{ github.workspace }}/ss.py
-
       - name: Run sub
         run: python ${{ github.workspace }}/sub.py
         
