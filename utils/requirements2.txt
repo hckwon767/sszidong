@@ -1,0 +1,6 @@
+requests
+pycryptodome
+beautifulsoup4
+pyaes
+httpx
+pyyaml
