@@ -47,7 +47,6 @@ jobs:
 
       - name: Run sub
         run: python ${{ github.workspace }}/sub.py
-
         
       - name: Commit results
         run: |
